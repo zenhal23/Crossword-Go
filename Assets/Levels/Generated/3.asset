@@ -1,0 +1,628 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4075f49cd56884e9ba8d2d5b6ba8fce0, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: CrosswordGo.Core::CrosswordGo.LevelData
+  title: New Level
+  gridWidth: 8
+  gridHeight: 9
+  cells:
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 15
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 16
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 17
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 18
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 19
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 20
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 21
+  - cellType: 1
+    acrossSlotId: 0
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 2
+    downSlotId: 22
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 3
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 4
+    downSlotId: 23
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 5
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 6
+    downSlotId: 24
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 7
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 8
+    downSlotId: 25
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 26
+  - cellType: 1
+    acrossSlotId: 9
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 10
+    downSlotId: 27
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 11
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 12
+    downSlotId: 28
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 13
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 14
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  wordSlots:
+  - id: 0
+    direction: 0
+    clueRow: 1
+    clueCol: 0
+    startRow: 1
+    startCol: 1
+    length: 7
+    answer: BALCONY
+    clue: BALCONY
+    clueType: 1
+    clueSprite: {fileID: 3667054528505570668, guid: 749e92b264d4344a2bd21423200f6b7c, type: 3}
+  - id: 1
+    direction: 0
+    clueRow: 2
+    clueCol: 0
+    startRow: 2
+    startCol: 1
+    length: 3
+    answer: ARK
+    clue: BIBLICAL BOAT
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 2
+    direction: 0
+    clueRow: 2
+    clueCol: 4
+    startRow: 2
+    startCol: 5
+    length: 3
+    answer: WEE
+    clue: TINY
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 3
+    direction: 0
+    clueRow: 3
+    clueCol: 0
+    startRow: 3
+    startCol: 1
+    length: 2
+    answer: RE
+    clue: SPHE__
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 4
+    direction: 0
+    clueRow: 3
+    clueCol: 3
+    startRow: 3
+    startCol: 4
+    length: 4
+    answer: PLEA
+    clue: LEGAL REQUEST
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 5
+    direction: 0
+    clueRow: 4
+    clueCol: 0
+    startRow: 4
+    startCol: 1
+    length: 4
+    answer: BALE
+    clue: HAY BUNDLE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 6
+    direction: 0
+    clueRow: 4
+    clueCol: 5
+    startRow: 4
+    startCol: 6
+    length: 2
+    answer: DH
+    clue: DINING HALL
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 7
+    direction: 0
+    clueRow: 5
+    clueCol: 0
+    startRow: 5
+    startCol: 1
+    length: 1
+    answer: E
+    clue: EARTH
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 8
+    direction: 0
+    clueRow: 5
+    clueCol: 2
+    startRow: 5
+    startCol: 3
+    length: 4
+    answer: ASPS
+    clue: DEADLY SNAKES
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 9
+    direction: 0
+    clueRow: 6
+    clueCol: 0
+    startRow: 6
+    startCol: 1
+    length: 5
+    answer: CANOE
+    clue: CANOE
+    clueType: 1
+    clueSprite: {fileID: 6482782219619478289, guid: c806d25e4e9844a17aa88c4bc89d1674, type: 3}
+  - id: 10
+    direction: 0
+    clueRow: 6
+    clueCol: 6
+    startRow: 6
+    startCol: 7
+    length: 1
+    answer: J
+    clue: JUNCTION
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 11
+    direction: 0
+    clueRow: 7
+    clueCol: 0
+    startRow: 7
+    startCol: 1
+    length: 3
+    answer: USE
+    clue: APPLY
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 12
+    direction: 0
+    clueRow: 7
+    clueCol: 4
+    startRow: 7
+    startCol: 5
+    length: 3
+    answer: ADO
+    clue: NOISY FUSS
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 13
+    direction: 0
+    clueRow: 8
+    clueCol: 0
+    startRow: 8
+    startCol: 1
+    length: 2
+    answer: EK
+    clue: EUR__A
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 14
+    direction: 0
+    clueRow: 8
+    clueCol: 3
+    startRow: 8
+    startCol: 4
+    length: 4
+    answer: ARMY
+    clue: MILITARY GROUP
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 15
+    direction: 1
+    clueRow: 0
+    clueCol: 1
+    startRow: 1
+    startCol: 1
+    length: 8
+    answer: BARBECUE
+    clue: BARBECUE
+    clueType: 1
+    clueSprite: {fileID: -3503209695007807471, guid: 653ddbbef14214441b47c5ebf18292cc, type: 3}
+  - id: 16
+    direction: 1
+    clueRow: 0
+    clueCol: 2
+    startRow: 1
+    startCol: 2
+    length: 4
+    answer: AREA
+    clue: LAND UNIT
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 17
+    direction: 1
+    clueRow: 0
+    clueCol: 3
+    startRow: 1
+    startCol: 3
+    length: 2
+    answer: LK
+    clue: LION KING
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 18
+    direction: 1
+    clueRow: 0
+    clueCol: 4
+    startRow: 1
+    startCol: 4
+    length: 1
+    answer: C
+    clue: CHARLIE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 19
+    direction: 1
+    clueRow: 0
+    clueCol: 5
+    startRow: 1
+    startCol: 5
+    length: 3
+    answer: OWL
+    clue: OWL
+    clueType: 1
+    clueSprite: {fileID: -6367637764002013411, guid: de155b2844a204a268526b59465b1573, type: 3}
+  - id: 20
+    direction: 1
+    clueRow: 0
+    clueCol: 6
+    startRow: 1
+    startCol: 6
+    length: 5
+    answer: NEEDS
+    clue: MUST HAVES
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 21
+    direction: 1
+    clueRow: 0
+    clueCol: 7
+    startRow: 1
+    startCol: 7
+    length: 4
+    answer: YEAH
+    clue: SURE!
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 22
+    direction: 1
+    clueRow: 2
+    clueCol: 4
+    startRow: 3
+    startCol: 4
+    length: 4
+    answer: PESO
+    clue: MEXICAN MONEY
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 23
+    direction: 1
+    clueRow: 3
+    clueCol: 3
+    startRow: 4
+    startCol: 3
+    length: 4
+    answer: LANE
+    clue: NARROW ROAD
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 24
+    direction: 1
+    clueRow: 4
+    clueCol: 5
+    startRow: 5
+    startCol: 5
+    length: 4
+    answer: PEAR
+    clue: FALL FRUIT
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 25
+    direction: 1
+    clueRow: 5
+    clueCol: 2
+    startRow: 6
+    startCol: 2
+    length: 3
+    answer: ASK
+    clue: INQUIRE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 26
+    direction: 1
+    clueRow: 5
+    clueCol: 7
+    startRow: 6
+    startCol: 7
+    length: 3
+    answer: JOY
+    clue: GREAT DELIGHT
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 27
+    direction: 1
+    clueRow: 6
+    clueCol: 6
+    startRow: 7
+    startCol: 6
+    length: 2
+    answer: DM
+    clue: DIRECT MESSAGE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 28
+    direction: 1
+    clueRow: 7
+    clueCol: 4
+    startRow: 8
+    startCol: 4
+    length: 1
+    answer: A
+    clue: ALPHA
+    clueType: 0
+    clueSprite: {fileID: 0}
+  cellHints:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - B
+  - 
+  - L
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - C
+  - 
+  - N
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - A
+  - 
+  - O
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  difficulty: 1

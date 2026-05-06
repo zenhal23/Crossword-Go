@@ -1,0 +1,7951 @@
+{
+  "entries": [
+    {
+      "word": "ACCEPT",
+      "clues": [
+        {
+          "text": "Agree to receive or take in",
+          "clueType": 0
+        },
+        {
+          "text": "Say yes to an offer",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ACROSS",
+      "clues": [
+        {
+          "text": "From one side to the other",
+          "clueType": 0
+        },
+        {
+          "text": "Horizontal direction in crossword",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ACTIVE",
+      "clues": [
+        {
+          "text": "Energetically engaged",
+          "clueType": 0
+        },
+        {
+          "text": "Opposite of inactive",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ADMIRE",
+      "clues": [
+        {
+          "text": "Regard with respect and approval",
+          "clueType": 0
+        },
+        {
+          "text": "Look at with pleasure",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "AFFORD",
+      "clues": [
+        {
+          "text": "Have enough money for",
+          "clueType": 0
+        },
+        {
+          "text": "Be able to pay for",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ALMOST",
+      "clues": [
+        {
+          "text": "Not quite but very close",
+          "clueType": 0
+        },
+        {
+          "text": "Nearly, but not entirely",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ALWAYS",
+      "clues": [
+        {
+          "text": "At all times",
+          "clueType": 0
+        },
+        {
+          "text": "Every single time",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ANCHOR",
+      "clues": [
+        {
+          "text": "Heavy object that holds a ship in place",
+          "clueType": 0
+        },
+        {
+          "text": "TV news presenter",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ANIMAL",
+      "clues": [
+        {
+          "text": "Living creature that is not a plant",
+          "clueType": 0
+        },
+        {
+          "text": "Lion, dog, or fish, for example",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ANSWER",
+      "clues": [
+        {
+          "text": "Response to a question",
+          "clueType": 0
+        },
+        {
+          "text": "Solution to a puzzle",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ANTLER",
+      "clues": [
+        {
+          "text": "Branched horn of a deer",
+          "clueType": 0
+        },
+        {
+          "text": "Deer's bony headwear",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ARCADE",
+      "clues": [
+        {
+          "text": "Covered passageway with shops",
+          "clueType": 0
+        },
+        {
+          "text": "Place with coin-operated games",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ARCHER",
+      "clues": [
+        {
+          "text": "Person who shoots with bow and arrows",
+          "clueType": 0
+        },
+        {
+          "text": "Robin Hood's occupation",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ARRIVE",
+      "clues": [
+        {
+          "text": "Reach a destination",
+          "clueType": 0
+        },
+        {
+          "text": "Come to the end of a journey",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ARTIST",
+      "clues": [
+        {
+          "text": "Person who creates works of art",
+          "clueType": 0
+        },
+        {
+          "text": "Painter, sculptor, or musician",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BATTLE",
+      "clues": [
+        {
+          "text": "Fight between armed forces",
+          "clueType": 0
+        },
+        {
+          "text": "Struggle or contest",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BEAUTY",
+      "clues": [
+        {
+          "text": "Quality of being pleasing to the senses",
+          "clueType": 0
+        },
+        {
+          "text": "Attractive person or thing",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BEFORE",
+      "clues": [
+        {
+          "text": "Earlier in time",
+          "clueType": 0
+        },
+        {
+          "text": "In front of",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BELONG",
+      "clues": [
+        {
+          "text": "Be a member or part of",
+          "clueType": 0
+        },
+        {
+          "text": "Have a proper place",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BETTER",
+      "clues": [
+        {
+          "text": "Of higher quality",
+          "clueType": 0
+        },
+        {
+          "text": "Improved in health",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BITTER",
+      "clues": [
+        {
+          "text": "Having a sharp, unpleasant taste",
+          "clueType": 0
+        },
+        {
+          "text": "Feeling of resentment",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BORDER",
+      "clues": [
+        {
+          "text": "Line dividing two countries",
+          "clueType": 0
+        },
+        {
+          "text": "Edge or boundary of something",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BOTTLE",
+      "clues": [
+        {
+          "text": "Container with a narrow neck",
+          "clueType": 0
+        },
+        {
+          "text": "Glass vessel for liquids",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BORROW",
+      "clues": [
+        {
+          "text": "Take something temporarily",
+          "clueType": 0
+        },
+        {
+          "text": "Use something that belongs to another",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BRANCH",
+      "clues": [
+        {
+          "text": "Part of a tree extending from the trunk",
+          "clueType": 0
+        },
+        {
+          "text": "Division of an organisation",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BREEZE",
+      "clues": [
+        {
+          "text": "Gentle wind",
+          "clueType": 0
+        },
+        {
+          "text": "Something very easy to do",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BRIDGE",
+      "clues": [
+        {
+          "text": "Structure spanning a gap or river",
+          "clueType": 0
+        },
+        {
+          "text": "Card game for four players",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BRIGHT",
+      "clues": [
+        {
+          "text": "Giving out or reflecting much light",
+          "clueType": 0
+        },
+        {
+          "text": "Clever and quick to learn",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BROKEN",
+      "clues": [
+        {
+          "text": "No longer working or whole",
+          "clueType": 0
+        },
+        {
+          "text": "Fractured or split",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BRUTAL",
+      "clues": [
+        {
+          "text": "Savagely violent or cruel",
+          "clueType": 0
+        },
+        {
+          "text": "Unpleasantly harsh",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BUBBLE",
+      "clues": [
+        {
+          "text": "Sphere of liquid enclosing air",
+          "clueType": 0
+        },
+        {
+          "text": "Make a gurgling sound",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BUDGET",
+      "clues": [
+        {
+          "text": "Plan for spending money",
+          "clueType": 0
+        },
+        {
+          "text": "Financial allocation",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BURDEN",
+      "clues": [
+        {
+          "text": "Heavy load to carry",
+          "clueType": 0
+        },
+        {
+          "text": "Duty or responsibility",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BUTTER",
+      "clues": [
+        {
+          "text": "Yellow dairy spread",
+          "clueType": 0
+        },
+        {
+          "text": "Fat made from churned cream",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BUTTON",
+      "clues": [
+        {
+          "text": "Small disc used to fasten clothing",
+          "clueType": 0
+        },
+        {
+          "text": "Switch on a machine",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CANDLE",
+      "clues": [
+        {
+          "text": "Wax stick burned for light",
+          "clueType": 0
+        },
+        {
+          "text": "Birthday cake topping",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CAREER",
+      "clues": [
+        {
+          "text": "Long-term occupation or profession",
+          "clueType": 0
+        },
+        {
+          "text": "Course of professional life",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CASTLE",
+      "clues": [
+        {
+          "text": "Medieval stone fortification",
+          "clueType": 0
+        },
+        {
+          "text": "Chess piece that moves in straight lines",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CASUAL",
+      "clues": [
+        {
+          "text": "Relaxed and informal",
+          "clueType": 0
+        },
+        {
+          "text": "Not regular or permanent",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CAUGHT",
+      "clues": [
+        {
+          "text": "Past tense of catch",
+          "clueType": 0
+        },
+        {
+          "text": "Apprehended or intercepted",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CENTRE",
+      "clues": [
+        {
+          "text": "Middle point or part",
+          "clueType": 0
+        },
+        {
+          "text": "Place where activities are focused",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CHANCE",
+      "clues": [
+        {
+          "text": "Possibility of something happening",
+          "clueType": 0
+        },
+        {
+          "text": "Opportunity or luck",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CHANGE",
+      "clues": [
+        {
+          "text": "Become different",
+          "clueType": 0
+        },
+        {
+          "text": "Coins returned after a purchase",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CHAPEL",
+      "clues": [
+        {
+          "text": "Small place of worship",
+          "clueType": 0
+        },
+        {
+          "text": "Part of a church with its own altar",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CHARGE",
+      "clues": [
+        {
+          "text": "Price asked for goods or services",
+          "clueType": 0
+        },
+        {
+          "text": "Rush forward in attack",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CHERRY",
+      "clues": [
+        {
+          "text": "Small red or black stone fruit",
+          "clueType": 0
+        },
+        {
+          "text": "Tree with white spring blossoms",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CHOOSE",
+      "clues": [
+        {
+          "text": "Pick from a range of options",
+          "clueType": 0
+        },
+        {
+          "text": "Make a selection",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CIRCLE",
+      "clues": [
+        {
+          "text": "Round plane figure",
+          "clueType": 0
+        },
+        {
+          "text": "Group of people with shared interests",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CLEVER",
+      "clues": [
+        {
+          "text": "Quick to understand and learn",
+          "clueType": 0
+        },
+        {
+          "text": "Showing skill or ingenuity",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CLOUDS",
+      "clues": [
+        {
+          "text": "Masses of water vapour in the sky",
+          "clueType": 0
+        },
+        {
+          "text": "Overcast formations above",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "COFFEE",
+      "clues": [
+        {
+          "text": "Hot drink made from roasted beans",
+          "clueType": 0
+        },
+        {
+          "text": "Popular morning beverage",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "COLOUR",
+      "clues": [
+        {
+          "text": "Visual property of objects from light",
+          "clueType": 0
+        },
+        {
+          "text": "Red, blue, or green, for example",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "COMBAT",
+      "clues": [
+        {
+          "text": "Armed fighting between forces",
+          "clueType": 0
+        },
+        {
+          "text": "Take action against something",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "COMING",
+      "clues": [
+        {
+          "text": "Moving toward a place",
+          "clueType": 0
+        },
+        {
+          "text": "Arriving or approaching",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "COMMON",
+      "clues": [
+        {
+          "text": "Occurring frequently",
+          "clueType": 0
+        },
+        {
+          "text": "Shared by all members of a community",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CORNER",
+      "clues": [
+        {
+          "text": "Where two edges or lines meet",
+          "clueType": 0
+        },
+        {
+          "text": "Difficult situation with no escape",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "COTTON",
+      "clues": [
+        {
+          "text": "Soft white fibre from a plant",
+          "clueType": 0
+        },
+        {
+          "text": "Fabric made from plant fibre",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "COUPLE",
+      "clues": [
+        {
+          "text": "Two people or things together",
+          "clueType": 0
+        },
+        {
+          "text": "Romantic partners",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "COURSE",
+      "clues": [
+        {
+          "text": "Series of lessons or studies",
+          "clueType": 0
+        },
+        {
+          "text": "Route taken by something",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CREDIT",
+      "clues": [
+        {
+          "text": "Trust given to a person for future payment",
+          "clueType": 0
+        },
+        {
+          "text": "Acknowledgement for work done",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CRISIS",
+      "clues": [
+        {
+          "text": "Time of intense difficulty",
+          "clueType": 0
+        },
+        {
+          "text": "Emergency situation",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CRUISE",
+      "clues": [
+        {
+          "text": "Sea voyage on a large ship",
+          "clueType": 0
+        },
+        {
+          "text": "Travel smoothly at a steady speed",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CUSTOM",
+      "clues": [
+        {
+          "text": "Traditional practice of a society",
+          "clueType": 0
+        },
+        {
+          "text": "Made to order for a specific person",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DANGER",
+      "clues": [
+        {
+          "text": "Possibility of harm or injury",
+          "clueType": 0
+        },
+        {
+          "text": "Risk of something bad happening",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DARING",
+      "clues": [
+        {
+          "text": "Willing to take risks",
+          "clueType": 0
+        },
+        {
+          "text": "Adventurous and bold",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DARKEN",
+      "clues": [
+        {
+          "text": "Make or become dark",
+          "clueType": 0
+        },
+        {
+          "text": "Cast a shadow over",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DEBATE",
+      "clues": [
+        {
+          "text": "Formal discussion of opposing views",
+          "clueType": 0
+        },
+        {
+          "text": "Consider something carefully",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DECIDE",
+      "clues": [
+        {
+          "text": "Make a choice after consideration",
+          "clueType": 0
+        },
+        {
+          "text": "Settle a matter by giving a verdict",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DEFEND",
+      "clues": [
+        {
+          "text": "Protect from attack",
+          "clueType": 0
+        },
+        {
+          "text": "Argue in support of",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DESERT",
+      "clues": [
+        {
+          "text": "Dry sandy region with little rain",
+          "clueType": 0
+        },
+        {
+          "text": "Leave someone in need",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DESIGN",
+      "clues": [
+        {
+          "text": "Plan or drawing of something to be made",
+          "clueType": 0
+        },
+        {
+          "text": "Create or devise for a purpose",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DETAIL",
+      "clues": [
+        {
+          "text": "Small individual fact or item",
+          "clueType": 0
+        },
+        {
+          "text": "Give fuller information about",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DEVICE",
+      "clues": [
+        {
+          "text": "Thing made for a particular purpose",
+          "clueType": 0
+        },
+        {
+          "text": "Electronic gadget",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DIFFER",
+      "clues": [
+        {
+          "text": "Be unlike or dissimilar",
+          "clueType": 0
+        },
+        {
+          "text": "Hold a different opinion",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DINNER",
+      "clues": [
+        {
+          "text": "Main meal of the day",
+          "clueType": 0
+        },
+        {
+          "text": "Evening meal",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DIRECT",
+      "clues": [
+        {
+          "text": "Shortest route from one place to another",
+          "clueType": 0
+        },
+        {
+          "text": "Manage and control",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DIVIDE",
+      "clues": [
+        {
+          "text": "Separate into parts",
+          "clueType": 0
+        },
+        {
+          "text": "Mathematical operation opposite of multiply",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DOCTOR",
+      "clues": [
+        {
+          "text": "Medical professional who treats illness",
+          "clueType": 0
+        },
+        {
+          "text": "Person with a PhD",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DOUBLE",
+      "clues": [
+        {
+          "text": "Twice the amount",
+          "clueType": 0
+        },
+        {
+          "text": "Person who looks exactly like another",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DRAGON",
+      "clues": [
+        {
+          "text": "Mythical fire-breathing creature",
+          "clueType": 0
+        },
+        {
+          "text": "Large flying reptile of legend",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DREAMS",
+      "clues": [
+        {
+          "text": "Images experienced during sleep",
+          "clueType": 0
+        },
+        {
+          "text": "Hopes and ambitions",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DRIVEN",
+      "clues": [
+        {
+          "text": "Motivated and determined",
+          "clueType": 0
+        },
+        {
+          "text": "Propelled by a force",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DURING",
+      "clues": [
+        {
+          "text": "Throughout the duration of",
+          "clueType": 0
+        },
+        {
+          "text": "At some point within a period",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ENABLE",
+      "clues": [
+        {
+          "text": "Make possible or allow to happen",
+          "clueType": 0
+        },
+        {
+          "text": "Give someone the means to do something",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ENERGY",
+      "clues": [
+        {
+          "text": "Power derived from physical or chemical resources",
+          "clueType": 0
+        },
+        {
+          "text": "Strength and vitality",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ENGINE",
+      "clues": [
+        {
+          "text": "Machine that converts energy to motion",
+          "clueType": 0
+        },
+        {
+          "text": "Locomotive pulling a train",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ENOUGH",
+      "clues": [
+        {
+          "text": "Adequate amount",
+          "clueType": 0
+        },
+        {
+          "text": "Sufficient for the purpose",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ESCAPE",
+      "clues": [
+        {
+          "text": "Break free from captivity",
+          "clueType": 0
+        },
+        {
+          "text": "Avoid a danger",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "EXCEED",
+      "clues": [
+        {
+          "text": "Go beyond a limit",
+          "clueType": 0
+        },
+        {
+          "text": "Be greater than",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "EXPECT",
+      "clues": [
+        {
+          "text": "Anticipate or look forward to",
+          "clueType": 0
+        },
+        {
+          "text": "Consider something likely",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "EXPERT",
+      "clues": [
+        {
+          "text": "Person with special knowledge or skill",
+          "clueType": 0
+        },
+        {
+          "text": "Master in a field",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "EXTEND",
+      "clues": [
+        {
+          "text": "Make longer or larger",
+          "clueType": 0
+        },
+        {
+          "text": "Stretch out",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FADING",
+      "clues": [
+        {
+          "text": "Gradually losing colour or brightness",
+          "clueType": 0
+        },
+        {
+          "text": "Becoming less clear",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FAIRLY",
+      "clues": [
+        {
+          "text": "In a reasonably just manner",
+          "clueType": 0
+        },
+        {
+          "text": "Moderately",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FALLEN",
+      "clues": [
+        {
+          "text": "Having dropped down",
+          "clueType": 0
+        },
+        {
+          "text": "Defeated or dead in battle",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FAMILY",
+      "clues": [
+        {
+          "text": "Group of people related by blood or marriage",
+          "clueType": 0
+        },
+        {
+          "text": "Parents and children living together",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FAMOUS",
+      "clues": [
+        {
+          "text": "Known by many people",
+          "clueType": 0
+        },
+        {
+          "text": "Renowned and celebrated",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FASTER",
+      "clues": [
+        {
+          "text": "At greater speed",
+          "clueType": 0
+        },
+        {
+          "text": "More quickly",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FATHER",
+      "clues": [
+        {
+          "text": "Male parent",
+          "clueType": 0
+        },
+        {
+          "text": "Priest or founder",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FIGURE",
+      "clues": [
+        {
+          "text": "Shape or form of a person",
+          "clueType": 0
+        },
+        {
+          "text": "Number or digit",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FINGER",
+      "clues": [
+        {
+          "text": "One of five digits on a hand",
+          "clueType": 0
+        },
+        {
+          "text": "Point at someone",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FINISH",
+      "clues": [
+        {
+          "text": "Bring to an end",
+          "clueType": 0
+        },
+        {
+          "text": "End of a race",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FLIGHT",
+      "clues": [
+        {
+          "text": "Journey through the air",
+          "clueType": 0
+        },
+        {
+          "text": "Act of fleeing",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FLOWER",
+      "clues": [
+        {
+          "text": "Part of a plant that blooms",
+          "clueType": 0
+        },
+        {
+          "text": "Colourful blossom",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FOLLOW",
+      "clues": [
+        {
+          "text": "Go or come after",
+          "clueType": 0
+        },
+        {
+          "text": "Obey a rule or instruction",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FOREST",
+      "clues": [
+        {
+          "text": "Large area of land covered by trees",
+          "clueType": 0
+        },
+        {
+          "text": "Woodland or jungle",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FORMAL",
+      "clues": [
+        {
+          "text": "Done in accordance with rules",
+          "clueType": 0
+        },
+        {
+          "text": "Official and proper",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FOURTH",
+      "clues": [
+        {
+          "text": "Coming after third",
+          "clueType": 0
+        },
+        {
+          "text": "One of four equal parts",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FROZEN",
+      "clues": [
+        {
+          "text": "Turned to ice",
+          "clueType": 0
+        },
+        {
+          "text": "Unable to move from cold or fear",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FUTURE",
+      "clues": [
+        {
+          "text": "Time yet to come",
+          "clueType": 0
+        },
+        {
+          "text": "What will happen later",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GARDEN",
+      "clues": [
+        {
+          "text": "Area where plants are grown",
+          "clueType": 0
+        },
+        {
+          "text": "Outdoor space with flowers and grass",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GATHER",
+      "clues": [
+        {
+          "text": "Come together in a group",
+          "clueType": 0
+        },
+        {
+          "text": "Collect or accumulate",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GENTLE",
+      "clues": [
+        {
+          "text": "Mild and kind in nature",
+          "clueType": 0
+        },
+        {
+          "text": "Not violent or harsh",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GLANCE",
+      "clues": [
+        {
+          "text": "Quick look",
+          "clueType": 0
+        },
+        {
+          "text": "Look briefly at something",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GLIDER",
+      "clues": [
+        {
+          "text": "Aircraft with no engine",
+          "clueType": 0
+        },
+        {
+          "text": "Plane that soars on air currents",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GOLDEN",
+      "clues": [
+        {
+          "text": "Made of or like gold",
+          "clueType": 0
+        },
+        {
+          "text": "Very precious or excellent",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GOSSIP",
+      "clues": [
+        {
+          "text": "Casual conversation about others",
+          "clueType": 0
+        },
+        {
+          "text": "Spread rumours",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GOVERN",
+      "clues": [
+        {
+          "text": "Control and direct a country",
+          "clueType": 0
+        },
+        {
+          "text": "Rule over a state",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GRAVEL",
+      "clues": [
+        {
+          "text": "Mixture of small stones",
+          "clueType": 0
+        },
+        {
+          "text": "Fine road-surface material",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GREASE",
+      "clues": [
+        {
+          "text": "Thick oily substance",
+          "clueType": 0
+        },
+        {
+          "text": "Lubricate with fat",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GROUND",
+      "clues": [
+        {
+          "text": "Solid earth beneath your feet",
+          "clueType": 0
+        },
+        {
+          "text": "Reason or basis for something",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GROWTH",
+      "clues": [
+        {
+          "text": "Process of increasing in size",
+          "clueType": 0
+        },
+        {
+          "text": "Development or expansion",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GUITAR",
+      "clues": [
+        {
+          "text": "Stringed musical instrument",
+          "clueType": 0
+        },
+        {
+          "text": "Plucked instrument with frets",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HARBOR",
+      "clues": [
+        {
+          "text": "Sheltered body of water for ships",
+          "clueType": 0
+        },
+        {
+          "text": "Give shelter to a person or feeling",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HARDLY",
+      "clues": [
+        {
+          "text": "Scarcely or barely",
+          "clueType": 0
+        },
+        {
+          "text": "Almost not at all",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HEALTH",
+      "clues": [
+        {
+          "text": "State of being free from illness",
+          "clueType": 0
+        },
+        {
+          "text": "Physical and mental wellbeing",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HEAVEN",
+      "clues": [
+        {
+          "text": "Abode of God and angels",
+          "clueType": 0
+        },
+        {
+          "text": "A place of great happiness",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HIDDEN",
+      "clues": [
+        {
+          "text": "Kept out of sight",
+          "clueType": 0
+        },
+        {
+          "text": "Concealed from view",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HOLLOW",
+      "clues": [
+        {
+          "text": "Having empty space inside",
+          "clueType": 0
+        },
+        {
+          "text": "Small valley",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HONEST",
+      "clues": [
+        {
+          "text": "Truthful and sincere",
+          "clueType": 0
+        },
+        {
+          "text": "Free from deception",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HONOUR",
+      "clues": [
+        {
+          "text": "High respect and great esteem",
+          "clueType": 0
+        },
+        {
+          "text": "Uphold one's moral principles",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HORROR",
+      "clues": [
+        {
+          "text": "Intense feeling of fear or shock",
+          "clueType": 0
+        },
+        {
+          "text": "Genre of scary films",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HUNTER",
+      "clues": [
+        {
+          "text": "Person who hunts animals",
+          "clueType": 0
+        },
+        {
+          "text": "One who pursues prey",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HUNGRY",
+      "clues": [
+        {
+          "text": "Feeling the need to eat",
+          "clueType": 0
+        },
+        {
+          "text": "Having a strong desire",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "IMPACT",
+      "clues": [
+        {
+          "text": "Strong effect or influence",
+          "clueType": 0
+        },
+        {
+          "text": "Forceful collision",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "INDEED",
+      "clues": [
+        {
+          "text": "Used to emphasise a statement",
+          "clueType": 0
+        },
+        {
+          "text": "Truly or certainly",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "INSECT",
+      "clues": [
+        {
+          "text": "Small six-legged arthropod",
+          "clueType": 0
+        },
+        {
+          "text": "Bee, ant, or beetle, for example",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ISLAND",
+      "clues": [
+        {
+          "text": "Land surrounded entirely by water",
+          "clueType": 0
+        },
+        {
+          "text": "Isolated area or group",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "JOYFUL",
+      "clues": [
+        {
+          "text": "Feeling great happiness",
+          "clueType": 0
+        },
+        {
+          "text": "Filled with joy",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "JUNGLE",
+      "clues": [
+        {
+          "text": "Dense tropical forest",
+          "clueType": 0
+        },
+        {
+          "text": "Tangled and complex environment",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "JUNIOR",
+      "clues": [
+        {
+          "text": "Lower in rank or age",
+          "clueType": 0
+        },
+        {
+          "text": "Young or less experienced person",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "KEEPER",
+      "clues": [
+        {
+          "text": "Person who keeps or looks after something",
+          "clueType": 0
+        },
+        {
+          "text": "Goalkeeper in football",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "KERNEL",
+      "clues": [
+        {
+          "text": "Softer inner part of a nut or seed",
+          "clueType": 0
+        },
+        {
+          "text": "Central or essential part",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "KINDLE",
+      "clues": [
+        {
+          "text": "Light a fire",
+          "clueType": 0
+        },
+        {
+          "text": "Arouse or inspire a feeling",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "KNIGHT",
+      "clues": [
+        {
+          "text": "Medieval mounted soldier",
+          "clueType": 0
+        },
+        {
+          "text": "Chess piece that moves in an L-shape",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LAUNCH",
+      "clues": [
+        {
+          "text": "Set in motion or introduce",
+          "clueType": 0
+        },
+        {
+          "text": "Send a rocket into space",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LAVISH",
+      "clues": [
+        {
+          "text": "Rich and elaborate",
+          "clueType": 0
+        },
+        {
+          "text": "Spend in large amounts",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LAYERS",
+      "clues": [
+        {
+          "text": "Sheets or thicknesses of material",
+          "clueType": 0
+        },
+        {
+          "text": "Levels placed on top of each other",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LEADER",
+      "clues": [
+        {
+          "text": "Person who guides others",
+          "clueType": 0
+        },
+        {
+          "text": "Head of a group",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LEAVES",
+      "clues": [
+        {
+          "text": "Flat green parts of a plant",
+          "clueType": 0
+        },
+        {
+          "text": "Departs from a place",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LESSON",
+      "clues": [
+        {
+          "text": "Period of teaching or learning",
+          "clueType": 0
+        },
+        {
+          "text": "Something learned from experience",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LETTER",
+      "clues": [
+        {
+          "text": "Written message sent to someone",
+          "clueType": 0
+        },
+        {
+          "text": "Symbol representing a sound",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LINGER",
+      "clues": [
+        {
+          "text": "Stay longer than expected",
+          "clueType": 0
+        },
+        {
+          "text": "Be slow to leave",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LISTEN",
+      "clues": [
+        {
+          "text": "Give attention to sound",
+          "clueType": 0
+        },
+        {
+          "text": "Pay attention to what someone says",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LIVELY",
+      "clues": [
+        {
+          "text": "Full of life and energy",
+          "clueType": 0
+        },
+        {
+          "text": "Animated and vivid",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LONELY",
+      "clues": [
+        {
+          "text": "Sad from lack of company",
+          "clueType": 0
+        },
+        {
+          "text": "Solitary and isolated",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LOVELY",
+      "clues": [
+        {
+          "text": "Exquisitely beautiful or delightful",
+          "clueType": 0
+        },
+        {
+          "text": "Very pleasant",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LUSTER",
+      "clues": [
+        {
+          "text": "Gentle sheen or glow",
+          "clueType": 0
+        },
+        {
+          "text": "Quality of being brilliant",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MARBLE",
+      "clues": [
+        {
+          "text": "Hard crystalline rock used in sculpture",
+          "clueType": 0
+        },
+        {
+          "text": "Small glass ball used in a game",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MARINE",
+      "clues": [
+        {
+          "text": "Relating to the sea",
+          "clueType": 0
+        },
+        {
+          "text": "Soldier trained to serve on land and sea",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MARKET",
+      "clues": [
+        {
+          "text": "Place where goods are bought and sold",
+          "clueType": 0
+        },
+        {
+          "text": "Demand for a product",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MASTER",
+      "clues": [
+        {
+          "text": "Person with great skill or authority",
+          "clueType": 0
+        },
+        {
+          "text": "Have control over",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MEADOW",
+      "clues": [
+        {
+          "text": "Grassy field, especially near a river",
+          "clueType": 0
+        },
+        {
+          "text": "Open land with grass and wildflowers",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MENTAL",
+      "clues": [
+        {
+          "text": "Relating to the mind",
+          "clueType": 0
+        },
+        {
+          "text": "Intellectual rather than physical",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "METHOD",
+      "clues": [
+        {
+          "text": "Particular procedure for doing something",
+          "clueType": 0
+        },
+        {
+          "text": "Systematic way of working",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MIRROR",
+      "clues": [
+        {
+          "text": "Reflective glass surface",
+          "clueType": 0
+        },
+        {
+          "text": "Reflect or copy exactly",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MODERN",
+      "clues": [
+        {
+          "text": "Relating to the present time",
+          "clueType": 0
+        },
+        {
+          "text": "Using the latest technology",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MONKEY",
+      "clues": [
+        {
+          "text": "Primate that often lives in trees",
+          "clueType": 0
+        },
+        {
+          "text": "Mischievous person",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MOTHER",
+      "clues": [
+        {
+          "text": "Female parent",
+          "clueType": 0
+        },
+        {
+          "text": "Nurturer and caretaker",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MOTION",
+      "clues": [
+        {
+          "text": "Process of moving",
+          "clueType": 0
+        },
+        {
+          "text": "Proposal put to a vote",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MUFFIN",
+      "clues": [
+        {
+          "text": "Small sweet baked cake",
+          "clueType": 0
+        },
+        {
+          "text": "Round flat bread roll",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MUSCLE",
+      "clues": [
+        {
+          "text": "Tissue that contracts to produce movement",
+          "clueType": 0
+        },
+        {
+          "text": "Physical strength",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "NARROW",
+      "clues": [
+        {
+          "text": "Small in width",
+          "clueType": 0
+        },
+        {
+          "text": "Limited in range or scope",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "NATURE",
+      "clues": [
+        {
+          "text": "Phenomena of the physical world",
+          "clueType": 0
+        },
+        {
+          "text": "Inherent character of a person",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "NEEDLE",
+      "clues": [
+        {
+          "text": "Thin pointed instrument for sewing",
+          "clueType": 0
+        },
+        {
+          "text": "Pointer on a compass",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "NEPHEW",
+      "clues": [
+        {
+          "text": "Son of your brother or sister",
+          "clueType": 0
+        },
+        {
+          "text": "Male sibling's child",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "NORMAL",
+      "clues": [
+        {
+          "text": "Conforming to a standard",
+          "clueType": 0
+        },
+        {
+          "text": "Usual or typical",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "NOTICE",
+      "clues": [
+        {
+          "text": "Become aware of something",
+          "clueType": 0
+        },
+        {
+          "text": "Written or printed announcement",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "OBJECT",
+      "clues": [
+        {
+          "text": "Thing you can see and touch",
+          "clueType": 0
+        },
+        {
+          "text": "Express disagreement",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "OBLONG",
+      "clues": [
+        {
+          "text": "Rectangle that is longer than wide",
+          "clueType": 0
+        },
+        {
+          "text": "Oval or elongated shape",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "OBTAIN",
+      "clues": [
+        {
+          "text": "Come into possession of",
+          "clueType": 0
+        },
+        {
+          "text": "Acquire or get",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "OFFICE",
+      "clues": [
+        {
+          "text": "Room or building used for work",
+          "clueType": 0
+        },
+        {
+          "text": "Position of authority or service",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ORANGE",
+      "clues": [
+        {
+          "text": "Citrus fruit",
+          "clueType": 0
+        },
+        {
+          "text": "Colour between red and yellow",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ORIGIN",
+      "clues": [
+        {
+          "text": "Point where something begins",
+          "clueType": 0
+        },
+        {
+          "text": "Ancestry or source",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "OUTRUN",
+      "clues": [
+        {
+          "text": "Run faster than",
+          "clueType": 0
+        },
+        {
+          "text": "Move faster and escape",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "OYSTER",
+      "clues": [
+        {
+          "text": "Marine shellfish sometimes containing a pearl",
+          "clueType": 0
+        },
+        {
+          "text": "Bivalve mollusc eaten as food",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PALACE",
+      "clues": [
+        {
+          "text": "Official residence of a king or queen",
+          "clueType": 0
+        },
+        {
+          "text": "Large and splendid house",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PENCIL",
+      "clues": [
+        {
+          "text": "Writing instrument with graphite core",
+          "clueType": 0
+        },
+        {
+          "text": "Thin stick for drawing",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PERMIT",
+      "clues": [
+        {
+          "text": "Official document granting permission",
+          "clueType": 0
+        },
+        {
+          "text": "Allow or authorise",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PIRATE",
+      "clues": [
+        {
+          "text": "Sea robber who attacks ships",
+          "clueType": 0
+        },
+        {
+          "text": "Make illegal copies of something",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PLANET",
+      "clues": [
+        {
+          "text": "Celestial body orbiting a star",
+          "clueType": 0
+        },
+        {
+          "text": "Earth, Mars, or Venus, for example",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PLAYER",
+      "clues": [
+        {
+          "text": "Person who takes part in a game",
+          "clueType": 0
+        },
+        {
+          "text": "Performer in a sport or drama",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PLEDGE",
+      "clues": [
+        {
+          "text": "Solemn promise or undertaking",
+          "clueType": 0
+        },
+        {
+          "text": "Give as security for a loan",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PLURAL",
+      "clues": [
+        {
+          "text": "Referring to more than one",
+          "clueType": 0
+        },
+        {
+          "text": "Grammatical form for more than one",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "POCKET",
+      "clues": [
+        {
+          "text": "Small pouch sewn into clothing",
+          "clueType": 0
+        },
+        {
+          "text": "Take something for oneself dishonestly",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "POISON",
+      "clues": [
+        {
+          "text": "Substance that causes death or illness",
+          "clueType": 0
+        },
+        {
+          "text": "Toxic substance",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "POLICE",
+      "clues": [
+        {
+          "text": "Civil force for maintaining order",
+          "clueType": 0
+        },
+        {
+          "text": "Law enforcement officers",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "POLISH",
+      "clues": [
+        {
+          "text": "Make shiny by rubbing",
+          "clueType": 0
+        },
+        {
+          "text": "Substance used to give a shine",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PREFER",
+      "clues": [
+        {
+          "text": "Like better than another option",
+          "clueType": 0
+        },
+        {
+          "text": "Choose over something else",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PRETTY",
+      "clues": [
+        {
+          "text": "Attractive in a delicate way",
+          "clueType": 0
+        },
+        {
+          "text": "Quite or rather",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PRINCE",
+      "clues": [
+        {
+          "text": "Son of a king or queen",
+          "clueType": 0
+        },
+        {
+          "text": "Male ruler of a small state",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PROPER",
+      "clues": [
+        {
+          "text": "Truly what it is said to be",
+          "clueType": 0
+        },
+        {
+          "text": "Conforming to accepted standards",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PUZZLE",
+      "clues": [
+        {
+          "text": "Game or problem that tests ingenuity",
+          "clueType": 0
+        },
+        {
+          "text": "Cause to feel confused",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "clues": [
+        {
+          "text": "Small burrowing mammal with long ears",
+          "clueType": 0
+        },
+        {
+          "text": "Talk excessively",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RADISH",
+      "clues": [
+        {
+          "text": "Small red or white root vegetable",
+          "clueType": 0
+        },
+        {
+          "text": "Peppery salad vegetable",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RANDOM",
+      "clues": [
+        {
+          "text": "Without method or conscious decision",
+          "clueType": 0
+        },
+        {
+          "text": "Made or done without planning",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RATHER",
+      "clues": [
+        {
+          "text": "To a certain extent",
+          "clueType": 0
+        },
+        {
+          "text": "Instead of or preferably",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "REASON",
+      "clues": [
+        {
+          "text": "Cause or explanation for something",
+          "clueType": 0
+        },
+        {
+          "text": "Think logically",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RECIPE",
+      "clues": [
+        {
+          "text": "Set of instructions for preparing food",
+          "clueType": 0
+        },
+        {
+          "text": "Formula or method for achieving something",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "REFORM",
+      "clues": [
+        {
+          "text": "Change for the better",
+          "clueType": 0
+        },
+        {
+          "text": "Make improvements to a system",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "REGARD",
+      "clues": [
+        {
+          "text": "Consider or think of in a certain way",
+          "clueType": 0
+        },
+        {
+          "text": "Attention or care",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RELATE",
+      "clues": [
+        {
+          "text": "Make a connection between",
+          "clueType": 0
+        },
+        {
+          "text": "Tell a story or account",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "REPAIR",
+      "clues": [
+        {
+          "text": "Fix something that is broken",
+          "clueType": 0
+        },
+        {
+          "text": "Restore to working order",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RESCUE",
+      "clues": [
+        {
+          "text": "Save someone from danger",
+          "clueType": 0
+        },
+        {
+          "text": "Free from confinement",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RESULT",
+      "clues": [
+        {
+          "text": "Consequence of an action",
+          "clueType": 0
+        },
+        {
+          "text": "Final score in a match",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RETURN",
+      "clues": [
+        {
+          "text": "Come or go back",
+          "clueType": 0
+        },
+        {
+          "text": "Send something back",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "REVEAL",
+      "clues": [
+        {
+          "text": "Make known or uncover",
+          "clueType": 0
+        },
+        {
+          "text": "Allow something hidden to be seen",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RIBBON",
+      "clues": [
+        {
+          "text": "Narrow strip of fabric",
+          "clueType": 0
+        },
+        {
+          "text": "Prize awarded as a strip of coloured cloth",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RISING",
+      "clues": [
+        {
+          "text": "Moving upward",
+          "clueType": 0
+        },
+        {
+          "text": "Increasing in amount",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RITUAL",
+      "clues": [
+        {
+          "text": "Series of actions done regularly",
+          "clueType": 0
+        },
+        {
+          "text": "Ceremonial procedure",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ROCKET",
+      "clues": [
+        {
+          "text": "Vehicle propelled by jet thrust",
+          "clueType": 0
+        },
+        {
+          "text": "Shoot upward rapidly",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RUBBER",
+      "clues": [
+        {
+          "text": "Elastic material from tree sap",
+          "clueType": 0
+        },
+        {
+          "text": "Object used to erase pencil marks",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SACRED",
+      "clues": [
+        {
+          "text": "Connected with religion and god",
+          "clueType": 0
+        },
+        {
+          "text": "Worthy of great respect",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SADDLE",
+      "clues": [
+        {
+          "text": "Seat for a horse rider",
+          "clueType": 0
+        },
+        {
+          "text": "Ridge between two peaks",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SAMPLE",
+      "clues": [
+        {
+          "text": "Small part taken as representative",
+          "clueType": 0
+        },
+        {
+          "text": "Take a taste or test of",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SECOND",
+      "clues": [
+        {
+          "text": "Unit of time",
+          "clueType": 0
+        },
+        {
+          "text": "Next after the first",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SECRET",
+      "clues": [
+        {
+          "text": "Something kept hidden from others",
+          "clueType": 0
+        },
+        {
+          "text": "Not known or seen",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SENIOR",
+      "clues": [
+        {
+          "text": "Of greater age or higher rank",
+          "clueType": 0
+        },
+        {
+          "text": "Older and more experienced person",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SERIES",
+      "clues": [
+        {
+          "text": "Number of things in a sequence",
+          "clueType": 0
+        },
+        {
+          "text": "Set of TV programmes",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SETTLE",
+      "clues": [
+        {
+          "text": "Resolve or come to an agreement",
+          "clueType": 0
+        },
+        {
+          "text": "Establish oneself in a new place",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SHADOW",
+      "clues": [
+        {
+          "text": "Dark area made by blocking light",
+          "clueType": 0
+        },
+        {
+          "text": "Follow someone secretly",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SIMPLE",
+      "clues": [
+        {
+          "text": "Easy to understand or do",
+          "clueType": 0
+        },
+        {
+          "text": "Plain and not complicated",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SINGLE",
+      "clues": [
+        {
+          "text": "Only one",
+          "clueType": 0
+        },
+        {
+          "text": "Not married or in a relationship",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SISTER",
+      "clues": [
+        {
+          "text": "Female sibling",
+          "clueType": 0
+        },
+        {
+          "text": "Nun in a religious order",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SKETCH",
+      "clues": [
+        {
+          "text": "Quick rough drawing",
+          "clueType": 0
+        },
+        {
+          "text": "Short comic performance",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SLEEVE",
+      "clues": [
+        {
+          "text": "Part of a garment covering the arm",
+          "clueType": 0
+        },
+        {
+          "text": "Tube-shaped cover",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SMOOTH",
+      "clues": [
+        {
+          "text": "Having an even and regular surface",
+          "clueType": 0
+        },
+        {
+          "text": "Free from difficulties",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SOCCER",
+      "clues": [
+        {
+          "text": "Sport played with a round ball",
+          "clueType": 0
+        },
+        {
+          "text": "Football in American English",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SOFTLY",
+      "clues": [
+        {
+          "text": "In a quiet or gentle way",
+          "clueType": 0
+        },
+        {
+          "text": "Without harshness",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SPIDER",
+      "clues": [
+        {
+          "text": "Eight-legged creature that spins webs",
+          "clueType": 0
+        },
+        {
+          "text": "Arachnid that catches insects",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SPIRIT",
+      "clues": [
+        {
+          "text": "Non-physical part of a person",
+          "clueType": 0
+        },
+        {
+          "text": "Enthusiasm and determination",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SPRING",
+      "clues": [
+        {
+          "text": "Season after winter",
+          "clueType": 0
+        },
+        {
+          "text": "Coiled piece of metal that stores energy",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STABLE",
+      "clues": [
+        {
+          "text": "Building where horses are kept",
+          "clueType": 0
+        },
+        {
+          "text": "Not likely to change or fail",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STATUE",
+      "clues": [
+        {
+          "text": "Sculpted likeness of a person",
+          "clueType": 0
+        },
+        {
+          "text": "Carved or cast figure",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STEADY",
+      "clues": [
+        {
+          "text": "Firmly fixed and not shaking",
+          "clueType": 0
+        },
+        {
+          "text": "Regular and even",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STREAM",
+      "clues": [
+        {
+          "text": "Small narrow river",
+          "clueType": 0
+        },
+        {
+          "text": "Continuous flow of something",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STREET",
+      "clues": [
+        {
+          "text": "Road in a city with buildings",
+          "clueType": 0
+        },
+        {
+          "text": "Public road in a town",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STRICT",
+      "clues": [
+        {
+          "text": "Demanding obedience to rules",
+          "clueType": 0
+        },
+        {
+          "text": "Exact and precise",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STRONG",
+      "clues": [
+        {
+          "text": "Having great physical power",
+          "clueType": 0
+        },
+        {
+          "text": "Difficult to break or defeat",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STUDIO",
+      "clues": [
+        {
+          "text": "Room where an artist works",
+          "clueType": 0
+        },
+        {
+          "text": "Place where music or films are made",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STUPID",
+      "clues": [
+        {
+          "text": "Lacking intelligence",
+          "clueType": 0
+        },
+        {
+          "text": "Showing poor judgement",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SUBWAY",
+      "clues": [
+        {
+          "text": "Underground railway",
+          "clueType": 0
+        },
+        {
+          "text": "Pedestrian tunnel under a road",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SUMMER",
+      "clues": [
+        {
+          "text": "Warmest season of the year",
+          "clueType": 0
+        },
+        {
+          "text": "Season between spring and autumn",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SUPPLY",
+      "clues": [
+        {
+          "text": "Provide something needed",
+          "clueType": 0
+        },
+        {
+          "text": "Stock of something available",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SURELY",
+      "clues": [
+        {
+          "text": "Without doubt",
+          "clueType": 0
+        },
+        {
+          "text": "Used to emphasise certainty",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TACKLE",
+      "clues": [
+        {
+          "text": "Deal with a problem",
+          "clueType": 0
+        },
+        {
+          "text": "Equipment for fishing or sport",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TARGET",
+      "clues": [
+        {
+          "text": "Person or thing aimed at",
+          "clueType": 0
+        },
+        {
+          "text": "Goal or desired outcome",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TEMPLE",
+      "clues": [
+        {
+          "text": "Building for worship",
+          "clueType": 0
+        },
+        {
+          "text": "Flat part of the head beside the eye",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TENDER",
+      "clues": [
+        {
+          "text": "Gentle and caring",
+          "clueType": 0
+        },
+        {
+          "text": "Bid to carry out work at a stated price",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TENNIS",
+      "clues": [
+        {
+          "text": "Sport played with rackets and a net",
+          "clueType": 0
+        },
+        {
+          "text": "Game played at Wimbledon",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "THANKS",
+      "clues": [
+        {
+          "text": "Expression of gratitude",
+          "clueType": 0
+        },
+        {
+          "text": "Polite acknowledgement of help",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "THESIS",
+      "clues": [
+        {
+          "text": "Long essay or dissertation",
+          "clueType": 0
+        },
+        {
+          "text": "Central argument of a piece of writing",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "THIRTY",
+      "clues": [
+        {
+          "text": "Three times ten",
+          "clueType": 0
+        },
+        {
+          "text": "Number between twenty-nine and thirty-one",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "THOUGH",
+      "clues": [
+        {
+          "text": "Despite the fact that",
+          "clueType": 0
+        },
+        {
+          "text": "However or nevertheless",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "THROAT",
+      "clues": [
+        {
+          "text": "Passage in the neck for food and air",
+          "clueType": 0
+        },
+        {
+          "text": "Front of the neck",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "THRONE",
+      "clues": [
+        {
+          "text": "Royal seat of power",
+          "clueType": 0
+        },
+        {
+          "text": "Chair for a king or queen",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TICKET",
+      "clues": [
+        {
+          "text": "Piece of paper allowing entry",
+          "clueType": 0
+        },
+        {
+          "text": "Document bought for travel",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TIMBER",
+      "clues": [
+        {
+          "text": "Wood prepared for building",
+          "clueType": 0
+        },
+        {
+          "text": "Felled trees as a material",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TONGUE",
+      "clues": [
+        {
+          "text": "Muscular organ in the mouth",
+          "clueType": 0
+        },
+        {
+          "text": "Language of a country",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TRAVEL",
+      "clues": [
+        {
+          "text": "Make a journey",
+          "clueType": 0
+        },
+        {
+          "text": "Move from one place to another",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TROPHY",
+      "clues": [
+        {
+          "text": "Prize awarded for winning",
+          "clueType": 0
+        },
+        {
+          "text": "Cup or shield as a reward",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "clues": [
+        {
+          "text": "Slow reptile with a hard shell",
+          "clueType": 0
+        },
+        {
+          "text": "Marine reptile that swims",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "UNIQUE",
+      "clues": [
+        {
+          "text": "Being the only one of its kind",
+          "clueType": 0
+        },
+        {
+          "text": "Unlike anything else",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "USEFUL",
+      "clues": [
+        {
+          "text": "Able to be used for a practical purpose",
+          "clueType": 0
+        },
+        {
+          "text": "Helpful and of practical value",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "VALLEY",
+      "clues": [
+        {
+          "text": "Low area between hills",
+          "clueType": 0
+        },
+        {
+          "text": "River valley",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "VERBAL",
+      "clues": [
+        {
+          "text": "Relating to words",
+          "clueType": 0
+        },
+        {
+          "text": "Spoken rather than written",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "VICTIM",
+      "clues": [
+        {
+          "text": "Person harmed by crime or accident",
+          "clueType": 0
+        },
+        {
+          "text": "Person who suffers",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "VIOLET",
+      "clues": [
+        {
+          "text": "Bluish-purple colour",
+          "clueType": 0
+        },
+        {
+          "text": "Small purple flower",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "VISION",
+      "clues": [
+        {
+          "text": "Ability to see",
+          "clueType": 0
+        },
+        {
+          "text": "Idea or plan for the future",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "VOYAGE",
+      "clues": [
+        {
+          "text": "Long journey by sea or in space",
+          "clueType": 0
+        },
+        {
+          "text": "Ocean crossing",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "WALRUS",
+      "clues": [
+        {
+          "text": "Large Arctic sea mammal with tusks",
+          "clueType": 0
+        },
+        {
+          "text": "Animal with long ivory teeth",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "WANDER",
+      "clues": [
+        {
+          "text": "Walk without a fixed destination",
+          "clueType": 0
+        },
+        {
+          "text": "Move slowly with no purpose",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "WINTER",
+      "clues": [
+        {
+          "text": "Coldest season of the year",
+          "clueType": 0
+        },
+        {
+          "text": "Season between autumn and spring",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "WISDOM",
+      "clues": [
+        {
+          "text": "Quality of having experience and knowledge",
+          "clueType": 0
+        },
+        {
+          "text": "Ability to make good decisions",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "WONDER",
+      "clues": [
+        {
+          "text": "Feeling of surprise and admiration",
+          "clueType": 0
+        },
+        {
+          "text": "Feel curious about",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "WORTHY",
+      "clues": [
+        {
+          "text": "Deserving effort or respect",
+          "clueType": 0
+        },
+        {
+          "text": "Having worth or merit",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "WRITER",
+      "clues": [
+        {
+          "text": "Person who writes books or articles",
+          "clueType": 0
+        },
+        {
+          "text": "Author or journalist",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "YELLOW",
+      "clues": [
+        {
+          "text": "Colour of lemons and sunflowers",
+          "clueType": 0
+        },
+        {
+          "text": "Bright primary colour",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "YOGURT",
+      "clues": [
+        {
+          "text": "Thick fermented dairy food",
+          "clueType": 0
+        },
+        {
+          "text": "Creamy milk product with live cultures",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ZIPPER",
+      "clues": [
+        {
+          "text": "Fastening device with interlocking teeth",
+          "clueType": 0
+        },
+        {
+          "text": "Sliding fastener on clothing",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ABSOLUTE",
+      "clues": [
+        {
+          "text": "Not qualified or diminished in any way",
+          "clueType": 0
+        },
+        {
+          "text": "Complete and total",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BACKBONE",
+      "clues": [
+        {
+          "text": "Spine or vertebral column",
+          "clueType": 0
+        },
+        {
+          "text": "Main strength or support of something",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BALANCED",
+      "clues": [
+        {
+          "text": "Having equal amounts on each side",
+          "clueType": 0
+        },
+        {
+          "text": "Stable and well-proportioned",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BECOMING",
+      "clues": [
+        {
+          "text": "Starting to be something",
+          "clueType": 0
+        },
+        {
+          "text": "Attractive and suitable",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BIRTHDAY",
+      "clues": [
+        {
+          "text": "Anniversary of the day you were born",
+          "clueType": 0
+        },
+        {
+          "text": "Day of annual celebration",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BREAKING",
+      "clues": [
+        {
+          "text": "Separating into pieces",
+          "clueType": 0
+        },
+        {
+          "text": "Interrupting or ending",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BRINGING",
+      "clues": [
+        {
+          "text": "Carrying something to a place",
+          "clueType": 0
+        },
+        {
+          "text": "Causing to come",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CALENDAR",
+      "clues": [
+        {
+          "text": "Chart showing days and months",
+          "clueType": 0
+        },
+        {
+          "text": "System for organising time",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CAPTAINS",
+      "clues": [
+        {
+          "text": "Leaders of ships or teams",
+          "clueType": 0
+        },
+        {
+          "text": "Persons in command",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CARDINAL",
+      "clues": [
+        {
+          "text": "Senior Catholic church official",
+          "clueType": 0
+        },
+        {
+          "text": "Red North American bird",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CATCHING",
+      "clues": [
+        {
+          "text": "Intercepting something thrown",
+          "clueType": 0
+        },
+        {
+          "text": "Spreading from person to person",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CHANGING",
+      "clues": [
+        {
+          "text": "Becoming different",
+          "clueType": 0
+        },
+        {
+          "text": "Substituting one thing for another",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CHILDREN",
+      "clues": [
+        {
+          "text": "Young human beings",
+          "clueType": 0
+        },
+        {
+          "text": "Sons and daughters",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CLIMBING",
+      "clues": [
+        {
+          "text": "Going up a steep surface",
+          "clueType": 0
+        },
+        {
+          "text": "Ascending a mountain",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CONSIDER",
+      "clues": [
+        {
+          "text": "Think carefully about",
+          "clueType": 0
+        },
+        {
+          "text": "Take into account",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CREATIVE",
+      "clues": [
+        {
+          "text": "Involving imagination and original ideas",
+          "clueType": 0
+        },
+        {
+          "text": "Able to create and invent",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DARKNESS",
+      "clues": [
+        {
+          "text": "Absence of light",
+          "clueType": 0
+        },
+        {
+          "text": "Wickedness or evil",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DECIDING",
+      "clues": [
+        {
+          "text": "Making a choice",
+          "clueType": 0
+        },
+        {
+          "text": "Settling a matter",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DESCRIBE",
+      "clues": [
+        {
+          "text": "Give a detailed account of",
+          "clueType": 0
+        },
+        {
+          "text": "Paint a picture with words",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DISCOVER",
+      "clues": [
+        {
+          "text": "Find something for the first time",
+          "clueType": 0
+        },
+        {
+          "text": "Become aware of something",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DISTANCE",
+      "clues": [
+        {
+          "text": "Amount of space between two points",
+          "clueType": 0
+        },
+        {
+          "text": "Far-away place",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DRAMATIC",
+      "clues": [
+        {
+          "text": "Sudden and striking",
+          "clueType": 0
+        },
+        {
+          "text": "Relating to plays and drama",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DRAWINGS",
+      "clues": [
+        {
+          "text": "Illustrations made with a pencil",
+          "clueType": 0
+        },
+        {
+          "text": "Pictures created by marking a surface",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ENORMOUS",
+      "clues": [
+        {
+          "text": "Very large in size",
+          "clueType": 0
+        },
+        {
+          "text": "Huge and massive",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "EVERYONE",
+      "clues": [
+        {
+          "text": "Every person",
+          "clueType": 0
+        },
+        {
+          "text": "All people without exception",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "EXPECTED",
+      "clues": [
+        {
+          "text": "Regarded as likely to happen",
+          "clueType": 0
+        },
+        {
+          "text": "Anticipated in advance",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FINISHED",
+      "clues": [
+        {
+          "text": "Brought to an end",
+          "clueType": 0
+        },
+        {
+          "text": "Completed entirely",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FUNCTION",
+      "clues": [
+        {
+          "text": "Purpose or role of something",
+          "clueType": 0
+        },
+        {
+          "text": "Work or operate properly",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GATHERED",
+      "clues": [
+        {
+          "text": "Came together in a group",
+          "clueType": 0
+        },
+        {
+          "text": "Collected from various places",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GREATEST",
+      "clues": [
+        {
+          "text": "Most important or remarkable",
+          "clueType": 0
+        },
+        {
+          "text": "Largest or most significant",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HAPPENED",
+      "clues": [
+        {
+          "text": "Took place or occurred",
+          "clueType": 0
+        },
+        {
+          "text": "Came to pass",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "INCLUDED",
+      "clues": [
+        {
+          "text": "Contained as part of a whole",
+          "clueType": 0
+        },
+        {
+          "text": "Made part of a group",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "INNOCENT",
+      "clues": [
+        {
+          "text": "Not guilty of a crime",
+          "clueType": 0
+        },
+        {
+          "text": "Pure and without wrongdoing",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LEARNING",
+      "clues": [
+        {
+          "text": "Gaining knowledge or skill",
+          "clueType": 0
+        },
+        {
+          "text": "Process of education",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MIDNIGHT",
+      "clues": [
+        {
+          "text": "Twelve o'clock at night",
+          "clueType": 0
+        },
+        {
+          "text": "Middle of the night",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MOUNTAIN",
+      "clues": [
+        {
+          "text": "Large natural elevation of earth",
+          "clueType": 0
+        },
+        {
+          "text": "High rocky peak",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MOVEMENT",
+      "clues": [
+        {
+          "text": "Act of moving from one place to another",
+          "clueType": 0
+        },
+        {
+          "text": "Political or social campaign",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ORIGINAL",
+      "clues": [
+        {
+          "text": "First or earliest form of something",
+          "clueType": 0
+        },
+        {
+          "text": "Novel and inventive",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PAINTING",
+      "clues": [
+        {
+          "text": "Work of art created with paint",
+          "clueType": 0
+        },
+        {
+          "text": "Applying colour to a surface",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PICTURES",
+      "clues": [
+        {
+          "text": "Photographs or illustrations",
+          "clueType": 0
+        },
+        {
+          "text": "Visual representations",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PLEASANT",
+      "clues": [
+        {
+          "text": "Giving a sense of enjoyment",
+          "clueType": 0
+        },
+        {
+          "text": "Agreeable and nice",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "POSSIBLE",
+      "clues": [
+        {
+          "text": "Capable of happening",
+          "clueType": 0
+        },
+        {
+          "text": "Able to be done",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PRACTICE",
+      "clues": [
+        {
+          "text": "Repeated exercise to improve skill",
+          "clueType": 0
+        },
+        {
+          "text": "Customary way of doing something",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PRESENCE",
+      "clues": [
+        {
+          "text": "Being in a place",
+          "clueType": 0
+        },
+        {
+          "text": "Impressive manner or bearing",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "QUESTION",
+      "clues": [
+        {
+          "text": "Sentence seeking an answer",
+          "clueType": 0
+        },
+        {
+          "text": "Express doubt about",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RAILROAD",
+      "clues": [
+        {
+          "text": "Track for trains",
+          "clueType": 0
+        },
+        {
+          "text": "Railway line",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "REMEMBER",
+      "clues": [
+        {
+          "text": "Bring something back to mind",
+          "clueType": 0
+        },
+        {
+          "text": "Keep in memory",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RESOURCE",
+      "clues": [
+        {
+          "text": "Supply that can be drawn on",
+          "clueType": 0
+        },
+        {
+          "text": "Asset available for use",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ROMANTIC",
+      "clues": [
+        {
+          "text": "Relating to love and emotion",
+          "clueType": 0
+        },
+        {
+          "text": "Conducive to feelings of love",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SCHEDULE",
+      "clues": [
+        {
+          "text": "Plan of intended events",
+          "clueType": 0
+        },
+        {
+          "text": "Timetable of activities",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SEPARATE",
+      "clues": [
+        {
+          "text": "Form a division between",
+          "clueType": 0
+        },
+        {
+          "text": "Not connected or joined",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SHEPHERD",
+      "clues": [
+        {
+          "text": "Person who tends sheep",
+          "clueType": 0
+        },
+        {
+          "text": "Guide and watch over",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SLEEPING",
+      "clues": [
+        {
+          "text": "In a state of sleep",
+          "clueType": 0
+        },
+        {
+          "text": "Resting with eyes closed",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SMALLEST",
+      "clues": [
+        {
+          "text": "Least large in size",
+          "clueType": 0
+        },
+        {
+          "text": "Tiniest of all",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SPECIFIC",
+      "clues": [
+        {
+          "text": "Clearly defined or identified",
+          "clueType": 0
+        },
+        {
+          "text": "Precise and exact",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STANDING",
+      "clues": [
+        {
+          "text": "Being upright on one's feet",
+          "clueType": 0
+        },
+        {
+          "text": "Reputation or status",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SURPRISE",
+      "clues": [
+        {
+          "text": "Unexpected event or gift",
+          "clueType": 0
+        },
+        {
+          "text": "Feeling caused by something unexpected",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "THOUSAND",
+      "clues": [
+        {
+          "text": "Number equal to ten hundred",
+          "clueType": 0
+        },
+        {
+          "text": "Large but indefinite number",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TOGETHER",
+      "clues": [
+        {
+          "text": "As a group, not apart",
+          "clueType": 0
+        },
+        {
+          "text": "In company with others",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TOMORROW",
+      "clues": [
+        {
+          "text": "The day after today",
+          "clueType": 0
+        },
+        {
+          "text": "The near future",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TROUBLED",
+      "clues": [
+        {
+          "text": "Experiencing difficulty or anxiety",
+          "clueType": 0
+        },
+        {
+          "text": "Feeling worried and upset",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "UMBRELLA",
+      "clues": [
+        {
+          "text": "Device carried as protection from rain",
+          "clueType": 0
+        },
+        {
+          "text": "Collapsible canopy on a stick",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "VACATION",
+      "clues": [
+        {
+          "text": "Extended period of leisure away from work",
+          "clueType": 0
+        },
+        {
+          "text": "Holiday trip",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "WHATEVER",
+      "clues": [
+        {
+          "text": "Anything and everything",
+          "clueType": 0
+        },
+        {
+          "text": "Regardless of what",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "WHENEVER",
+      "clues": [
+        {
+          "text": "At whatever time",
+          "clueType": 0
+        },
+        {
+          "text": "Every time that",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "YOURSELF",
+      "clues": [
+        {
+          "text": "Used to refer back to the subject",
+          "clueType": 0
+        },
+        {
+          "text": "Your own person",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ABSOLUTE",
+      "clues": [
+        {
+          "text": "Complete and total",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ACTUALLY",
+      "clues": [
+        {
+          "text": "As a matter of fact",
+          "clueType": 0
+        },
+        {
+          "text": "In reality or truth",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "AUDIENCE",
+      "clues": [
+        {
+          "text": "Group of people watching a performance",
+          "clueType": 0
+        },
+        {
+          "text": "Viewers or listeners",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "AVENTURE",
+      "clues": [
+        {
+          "text": "Exciting and daring experience",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BASEMENT",
+      "clues": [
+        {
+          "text": "Room below ground level",
+          "clueType": 0
+        },
+        {
+          "text": "Underground floor of a building",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BATHROOM",
+      "clues": [
+        {
+          "text": "Room with a bath or shower",
+          "clueType": 0
+        },
+        {
+          "text": "Room for personal hygiene",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BOOKCASE",
+      "clues": [
+        {
+          "text": "Piece of furniture with shelves for books",
+          "clueType": 0
+        },
+        {
+          "text": "Cabinet for storing books",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BOUNDARY",
+      "clues": [
+        {
+          "text": "Line marking limits of an area",
+          "clueType": 0
+        },
+        {
+          "text": "Border between two regions",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BUILDING",
+      "clues": [
+        {
+          "text": "Structure with walls and a roof",
+          "clueType": 0
+        },
+        {
+          "text": "Act of constructing something",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "BUSINESS",
+      "clues": [
+        {
+          "text": "Commercial activity for profit",
+          "clueType": 0
+        },
+        {
+          "text": "Company or trade organisation",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CAMPAIGN",
+      "clues": [
+        {
+          "text": "Organised effort to achieve a goal",
+          "clueType": 0
+        },
+        {
+          "text": "Series of military operations",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CARELESS",
+      "clues": [
+        {
+          "text": "Not giving enough attention",
+          "clueType": 0
+        },
+        {
+          "text": "Done without sufficient care",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CHAMPION",
+      "clues": [
+        {
+          "text": "Person who has won a competition",
+          "clueType": 0
+        },
+        {
+          "text": "Defend a cause vigorously",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CHECKOUT",
+      "clues": [
+        {
+          "text": "Place where supermarket goods are paid for",
+          "clueType": 0
+        },
+        {
+          "text": "Process of leaving a hotel",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CHEERFUL",
+      "clues": [
+        {
+          "text": "Noticeably happy and optimistic",
+          "clueType": 0
+        },
+        {
+          "text": "Bright and pleasant",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "COLORFUL",
+      "clues": [
+        {
+          "text": "Having many bright colours",
+          "clueType": 0
+        },
+        {
+          "text": "Vivid and striking",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "COMEBACK",
+      "clues": [
+        {
+          "text": "Return to success after a setback",
+          "clueType": 0
+        },
+        {
+          "text": "Quick witty reply",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "COMPLETE",
+      "clues": [
+        {
+          "text": "Having all parts",
+          "clueType": 0
+        },
+        {
+          "text": "Finish doing something",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "COMPLAIN",
+      "clues": [
+        {
+          "text": "Express dissatisfaction",
+          "clueType": 0
+        },
+        {
+          "text": "Say something is unsatisfactory",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "COMPUTER",
+      "clues": [
+        {
+          "text": "Electronic device for processing data",
+          "clueType": 0
+        },
+        {
+          "text": "Machine used for calculations and tasks",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CONSTANT",
+      "clues": [
+        {
+          "text": "Occurring continuously",
+          "clueType": 0
+        },
+        {
+          "text": "Remaining the same",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CONTINUE",
+      "clues": [
+        {
+          "text": "Carry on with an activity",
+          "clueType": 0
+        },
+        {
+          "text": "Persist without stopping",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CONTRACT",
+      "clues": [
+        {
+          "text": "Legal agreement between parties",
+          "clueType": 0
+        },
+        {
+          "text": "Become smaller",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "CROSSING",
+      "clues": [
+        {
+          "text": "Going across a road or border",
+          "clueType": 0
+        },
+        {
+          "text": "Place where paths intersect",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DECISION",
+      "clues": [
+        {
+          "text": "Choice made after consideration",
+          "clueType": 0
+        },
+        {
+          "text": "Resolution reached after deliberation",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DELIVERY",
+      "clues": [
+        {
+          "text": "Act of bringing goods to someone",
+          "clueType": 0
+        },
+        {
+          "text": "Style of speaking or performing",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DESTINED",
+      "clues": [
+        {
+          "text": "Intended for a particular fate",
+          "clueType": 0
+        },
+        {
+          "text": "Bound to happen",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DIAMONDS",
+      "clues": [
+        {
+          "text": "Precious stones of hardest substance",
+          "clueType": 0
+        },
+        {
+          "text": "Playing card suit",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DIRECTLY",
+      "clues": [
+        {
+          "text": "Without delay or interruption",
+          "clueType": 0
+        },
+        {
+          "text": "In a straight line",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DISASTER",
+      "clues": [
+        {
+          "text": "Sudden event causing great damage",
+          "clueType": 0
+        },
+        {
+          "text": "Complete failure",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DOORSTEP",
+      "clues": [
+        {
+          "text": "Step in front of a doorway",
+          "clueType": 0
+        },
+        {
+          "text": "Very close to home",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DOUBTFUL",
+      "clues": [
+        {
+          "text": "Feeling uncertain",
+          "clueType": 0
+        },
+        {
+          "text": "Not likely to be true",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DREAMING",
+      "clues": [
+        {
+          "text": "Having images in sleep",
+          "clueType": 0
+        },
+        {
+          "text": "Wishing or hoping for",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DRIFTING",
+      "clues": [
+        {
+          "text": "Moving slowly without control",
+          "clueType": 0
+        },
+        {
+          "text": "Floating with the current",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DROPPING",
+      "clues": [
+        {
+          "text": "Letting fall",
+          "clueType": 0
+        },
+        {
+          "text": "Decreasing in amount",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "DURATION",
+      "clues": [
+        {
+          "text": "Length of time something lasts",
+          "clueType": 0
+        },
+        {
+          "text": "Period from start to finish",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ELEMENTS",
+      "clues": [
+        {
+          "text": "Basic substances of the physical world",
+          "clueType": 0
+        },
+        {
+          "text": "Essential components",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "EDUCATED",
+      "clues": [
+        {
+          "text": "Having received schooling",
+          "clueType": 0
+        },
+        {
+          "text": "Informed and knowledgeable",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ELEVATOR",
+      "clues": [
+        {
+          "text": "Machine for lifting people between floors",
+          "clueType": 0
+        },
+        {
+          "text": "Lift in a building",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "EMERGING",
+      "clues": [
+        {
+          "text": "Coming out into view",
+          "clueType": 0
+        },
+        {
+          "text": "Starting to develop",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "EMPLOYEE",
+      "clues": [
+        {
+          "text": "Person hired to work for wages",
+          "clueType": 0
+        },
+        {
+          "text": "Worker paid by an employer",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ENABLING",
+      "clues": [
+        {
+          "text": "Making possible",
+          "clueType": 0
+        },
+        {
+          "text": "Providing the means for",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ENGAGING",
+      "clues": [
+        {
+          "text": "Charming and attractive",
+          "clueType": 0
+        },
+        {
+          "text": "Involving or occupying attention",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ENTIRELY",
+      "clues": [
+        {
+          "text": "Completely and wholly",
+          "clueType": 0
+        },
+        {
+          "text": "To the full extent",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ENTRANCE",
+      "clues": [
+        {
+          "text": "Way into a place",
+          "clueType": 0
+        },
+        {
+          "text": "Door or opening you go through",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "EQUALITY",
+      "clues": [
+        {
+          "text": "State of being equal in rights",
+          "clueType": 0
+        },
+        {
+          "text": "Fair treatment for all",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "EVALUATE",
+      "clues": [
+        {
+          "text": "Form an idea of the amount or quality",
+          "clueType": 0
+        },
+        {
+          "text": "Assess or judge carefully",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "EVENTFUL",
+      "clues": [
+        {
+          "text": "Marked by interesting events",
+          "clueType": 0
+        },
+        {
+          "text": "Full of exciting happenings",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "EVERYDAY",
+      "clues": [
+        {
+          "text": "Occurring each day",
+          "clueType": 0
+        },
+        {
+          "text": "Ordinary and commonplace",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "EVIDENCE",
+      "clues": [
+        {
+          "text": "Facts indicating truth of a claim",
+          "clueType": 0
+        },
+        {
+          "text": "Proof used in a court of law",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "EXERCISE",
+      "clues": [
+        {
+          "text": "Physical activity to improve health",
+          "clueType": 0
+        },
+        {
+          "text": "Practice of a skill",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "EXTERNAL",
+      "clues": [
+        {
+          "text": "Belonging to the outside",
+          "clueType": 0
+        },
+        {
+          "text": "Coming from outside",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FAMILIAR",
+      "clues": [
+        {
+          "text": "Well known from experience",
+          "clueType": 0
+        },
+        {
+          "text": "Commonly encountered",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FEELINGS",
+      "clues": [
+        {
+          "text": "Emotions experienced internally",
+          "clueType": 0
+        },
+        {
+          "text": "Sensations of the heart",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FESTIVAL",
+      "clues": [
+        {
+          "text": "Celebration or series of special events",
+          "clueType": 0
+        },
+        {
+          "text": "Public celebration with entertainment",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FIGHTING",
+      "clues": [
+        {
+          "text": "Taking part in a violent confrontation",
+          "clueType": 0
+        },
+        {
+          "text": "Struggling against someone",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FINISHED",
+      "clues": [
+        {
+          "text": "Completed entirely",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FLASHING",
+      "clues": [
+        {
+          "text": "Shining with a sudden bright light",
+          "clueType": 0
+        },
+        {
+          "text": "Appearing very briefly",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FLOATING",
+      "clues": [
+        {
+          "text": "Resting on the surface of liquid",
+          "clueType": 0
+        },
+        {
+          "text": "Moving slowly through air",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FOLLOWED",
+      "clues": [
+        {
+          "text": "Came after in sequence",
+          "clueType": 0
+        },
+        {
+          "text": "Went behind someone",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FOOTBALL",
+      "clues": [
+        {
+          "text": "Team sport played with a ball",
+          "clueType": 0
+        },
+        {
+          "text": "Game played at Wembley",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FORCEFUL",
+      "clues": [
+        {
+          "text": "Strong and assertive",
+          "clueType": 0
+        },
+        {
+          "text": "Powerful and vigorous",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FORESEEN",
+      "clues": [
+        {
+          "text": "Anticipated beforehand",
+          "clueType": 0
+        },
+        {
+          "text": "Predicted in advance",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FREEHOLD",
+      "clues": [
+        {
+          "text": "Permanent ownership of land",
+          "clueType": 0
+        },
+        {
+          "text": "Absolute ownership of property",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FREEZING",
+      "clues": [
+        {
+          "text": "Extremely cold",
+          "clueType": 0
+        },
+        {
+          "text": "Converting to ice",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FREQUENT",
+      "clues": [
+        {
+          "text": "Occurring often",
+          "clueType": 0
+        },
+        {
+          "text": "Happening at short intervals",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "FRIENDLY",
+      "clues": [
+        {
+          "text": "Kind and pleasant",
+          "clueType": 0
+        },
+        {
+          "text": "Behaving in a warm and welcoming way",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GRATEFUL",
+      "clues": [
+        {
+          "text": "Feeling thankful",
+          "clueType": 0
+        },
+        {
+          "text": "Appreciative of kindness received",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GRIPPING",
+      "clues": [
+        {
+          "text": "Firmly holding",
+          "clueType": 0
+        },
+        {
+          "text": "Holding one's attention completely",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GROUNDED",
+      "clues": [
+        {
+          "text": "Having a firm foundation",
+          "clueType": 0
+        },
+        {
+          "text": "Stable and sensible",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "GUARDIAN",
+      "clues": [
+        {
+          "text": "Person who protects and defends",
+          "clueType": 0
+        },
+        {
+          "text": "Legal caretaker of a child",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HANDSOME",
+      "clues": [
+        {
+          "text": "Good-looking and attractive",
+          "clueType": 0
+        },
+        {
+          "text": "Pleasing to the eye",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HARDWARE",
+      "clues": [
+        {
+          "text": "Physical components of a computer",
+          "clueType": 0
+        },
+        {
+          "text": "Tools and equipment for the home",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HARMLESS",
+      "clues": [
+        {
+          "text": "Not causing harm",
+          "clueType": 0
+        },
+        {
+          "text": "Safe and without danger",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HELPLESS",
+      "clues": [
+        {
+          "text": "Unable to defend oneself",
+          "clueType": 0
+        },
+        {
+          "text": "Lacking the ability to act",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HERITAGE",
+      "clues": [
+        {
+          "text": "Valued aspects of culture passed down",
+          "clueType": 0
+        },
+        {
+          "text": "Traditions inherited from the past",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HISTORIC",
+      "clues": [
+        {
+          "text": "Famous or important in history",
+          "clueType": 0
+        },
+        {
+          "text": "Of great historical significance",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HOMELESS",
+      "clues": [
+        {
+          "text": "Without a place to live",
+          "clueType": 0
+        },
+        {
+          "text": "Having no fixed abode",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HOMEWORK",
+      "clues": [
+        {
+          "text": "Schoolwork done at home",
+          "clueType": 0
+        },
+        {
+          "text": "Research done before a task",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HONOURED",
+      "clues": [
+        {
+          "text": "Given great respect",
+          "clueType": 0
+        },
+        {
+          "text": "Privileged or celebrated",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HOSPITAL",
+      "clues": [
+        {
+          "text": "Place where sick people are treated",
+          "clueType": 0
+        },
+        {
+          "text": "Medical institution with wards",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "HUMIDITY",
+      "clues": [
+        {
+          "text": "Amount of water vapour in the air",
+          "clueType": 0
+        },
+        {
+          "text": "Moisture content of the atmosphere",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "IDENTITY",
+      "clues": [
+        {
+          "text": "Who a person is",
+          "clueType": 0
+        },
+        {
+          "text": "Distinguishing character of a person",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "IMAGINED",
+      "clues": [
+        {
+          "text": "Formed a mental image of",
+          "clueType": 0
+        },
+        {
+          "text": "Supposed or believed without proof",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "IMMORTAL",
+      "clues": [
+        {
+          "text": "Living forever",
+          "clueType": 0
+        },
+        {
+          "text": "Remembered for all time",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "IMPROVED",
+      "clues": [
+        {
+          "text": "Made or became better",
+          "clueType": 0
+        },
+        {
+          "text": "Enhanced or developed",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "INCIDENT",
+      "clues": [
+        {
+          "text": "Event of significance",
+          "clueType": 0
+        },
+        {
+          "text": "Unusual or disturbing event",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "INCREASE",
+      "clues": [
+        {
+          "text": "Make or become greater in size",
+          "clueType": 0
+        },
+        {
+          "text": "Rise in amount or number",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "INFORMED",
+      "clues": [
+        {
+          "text": "Having knowledge of something",
+          "clueType": 0
+        },
+        {
+          "text": "Given information about",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "INSTANCE",
+      "clues": [
+        {
+          "text": "Example or single occurrence",
+          "clueType": 0
+        },
+        {
+          "text": "Particular case",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "INTENDED",
+      "clues": [
+        {
+          "text": "Planned or meant to happen",
+          "clueType": 0
+        },
+        {
+          "text": "Having a purpose in mind",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "INTEREST",
+      "clues": [
+        {
+          "text": "State of wanting to know more",
+          "clueType": 0
+        },
+        {
+          "text": "Money paid for a loan",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "INTERVAL",
+      "clues": [
+        {
+          "text": "Pause between parts of a show",
+          "clueType": 0
+        },
+        {
+          "text": "Space between two events",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "INVOLVED",
+      "clues": [
+        {
+          "text": "Connected with or taking part in",
+          "clueType": 0
+        },
+        {
+          "text": "Complicated and detailed",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ISOLATED",
+      "clues": [
+        {
+          "text": "Far from others",
+          "clueType": 0
+        },
+        {
+          "text": "Separated from the main group",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "JEALOUSY",
+      "clues": [
+        {
+          "text": "Feeling of envy towards others",
+          "clueType": 0
+        },
+        {
+          "text": "Fear of losing what one has",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "JOURNALS",
+      "clues": [
+        {
+          "text": "Daily written records",
+          "clueType": 0
+        },
+        {
+          "text": "Academic publications",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "KAYAKING",
+      "clues": [
+        {
+          "text": "Paddling a small boat",
+          "clueType": 0
+        },
+        {
+          "text": "Water sport using a paddle craft",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "KEYBOARD",
+      "clues": [
+        {
+          "text": "Set of keys on a computer or piano",
+          "clueType": 0
+        },
+        {
+          "text": "Input device for typing",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "KINDNESS",
+      "clues": [
+        {
+          "text": "Quality of being caring and gentle",
+          "clueType": 0
+        },
+        {
+          "text": "Friendly and generous behaviour",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LANGUAGE",
+      "clues": [
+        {
+          "text": "System of communication",
+          "clueType": 0
+        },
+        {
+          "text": "Words used by a country or people",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LAUGHTER",
+      "clues": [
+        {
+          "text": "Sound of laughing",
+          "clueType": 0
+        },
+        {
+          "text": "Expression of amusement",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LAUNCHED",
+      "clues": [
+        {
+          "text": "Set in motion",
+          "clueType": 0
+        },
+        {
+          "text": "Sent off or released",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LISTENER",
+      "clues": [
+        {
+          "text": "Person who pays attention to speech",
+          "clueType": 0
+        },
+        {
+          "text": "Attentive audience member",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LOLLIPOP",
+      "clues": [
+        {
+          "text": "Hard sweet on a stick",
+          "clueType": 0
+        },
+        {
+          "text": "Colourful candy on a stick",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "LONGTERM",
+      "clues": [
+        {
+          "text": "Occurring over a long period",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MAGNETIC",
+      "clues": [
+        {
+          "text": "Having the property of attracting iron",
+          "clueType": 0
+        },
+        {
+          "text": "Powerfully attractive",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MARATHON",
+      "clues": [
+        {
+          "text": "Long-distance running race of 26 miles",
+          "clueType": 0
+        },
+        {
+          "text": "Extended and demanding event",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MARRIAGE",
+      "clues": [
+        {
+          "text": "Legal union of two people",
+          "clueType": 0
+        },
+        {
+          "text": "Wedding and the union it creates",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MATERIAL",
+      "clues": [
+        {
+          "text": "Matter from which things are made",
+          "clueType": 0
+        },
+        {
+          "text": "Relating to physical things",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MEDICINE",
+      "clues": [
+        {
+          "text": "Substance used to treat illness",
+          "clueType": 0
+        },
+        {
+          "text": "Science of treating disease",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MEMORIES",
+      "clues": [
+        {
+          "text": "Things remembered from the past",
+          "clueType": 0
+        },
+        {
+          "text": "Stored recollections",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MERCHANT",
+      "clues": [
+        {
+          "text": "Person who buys and sells goods",
+          "clueType": 0
+        },
+        {
+          "text": "Trader or shopkeeper",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MIDNIGHT",
+      "clues": [
+        {
+          "text": "Twelve o'clock at night",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MINISTER",
+      "clues": [
+        {
+          "text": "Government official with a portfolio",
+          "clueType": 0
+        },
+        {
+          "text": "Clergyman in a Protestant church",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MIRACLES",
+      "clues": [
+        {
+          "text": "Extraordinary events attributed to divine power",
+          "clueType": 0
+        },
+        {
+          "text": "Wonderful and surprising occurrences",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MISCHIEF",
+      "clues": [
+        {
+          "text": "Playful troublemaking",
+          "clueType": 0
+        },
+        {
+          "text": "Minor wrongdoing",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MODERATE",
+      "clues": [
+        {
+          "text": "Average in amount or degree",
+          "clueType": 0
+        },
+        {
+          "text": "Not extreme or excessive",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MOMENTUM",
+      "clues": [
+        {
+          "text": "Quantity of motion of a moving body",
+          "clueType": 0
+        },
+        {
+          "text": "Driving force of events",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MOREOVER",
+      "clues": [
+        {
+          "text": "As a further matter",
+          "clueType": 0
+        },
+        {
+          "text": "Besides, additionally",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MORTGAGE",
+      "clues": [
+        {
+          "text": "Loan to buy property",
+          "clueType": 0
+        },
+        {
+          "text": "Long-term debt secured on a home",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "MOTHERLY",
+      "clues": [
+        {
+          "text": "Relating to a mother's care",
+          "clueType": 0
+        },
+        {
+          "text": "Kind and protective like a mother",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "NAVIGATE",
+      "clues": [
+        {
+          "text": "Plan and direct a route",
+          "clueType": 0
+        },
+        {
+          "text": "Find one's way",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "NEGATIVE",
+      "clues": [
+        {
+          "text": "Expressing denial or refusal",
+          "clueType": 0
+        },
+        {
+          "text": "Harmful or bad",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "NOTEBOOK",
+      "clues": [
+        {
+          "text": "Small book for writing notes",
+          "clueType": 0
+        },
+        {
+          "text": "Portable computer",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "OFFENDED",
+      "clues": [
+        {
+          "text": "Feeling hurt or upset",
+          "clueType": 0
+        },
+        {
+          "text": "Having had feelings hurt",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "OFFICIAL",
+      "clues": [
+        {
+          "text": "Relating to an authority",
+          "clueType": 0
+        },
+        {
+          "text": "Person holding public office",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "OPERATOR",
+      "clues": [
+        {
+          "text": "Person who operates equipment",
+          "clueType": 0
+        },
+        {
+          "text": "Telephone switchboard worker",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "OPPOSING",
+      "clues": [
+        {
+          "text": "Going against",
+          "clueType": 0
+        },
+        {
+          "text": "Competing against",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "OPTIMISM",
+      "clues": [
+        {
+          "text": "Hopefulness about the future",
+          "clueType": 0
+        },
+        {
+          "text": "Tendency to see the positive side",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ORDERING",
+      "clues": [
+        {
+          "text": "Requesting goods or services",
+          "clueType": 0
+        },
+        {
+          "text": "Arranging in a sequence",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ORGANISM",
+      "clues": [
+        {
+          "text": "Individual living thing",
+          "clueType": 0
+        },
+        {
+          "text": "Plant or animal as a living entity",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "OUTGOING",
+      "clues": [
+        {
+          "text": "Friendly and sociable",
+          "clueType": 0
+        },
+        {
+          "text": "Leaving a position",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "OVERCOME",
+      "clues": [
+        {
+          "text": "Succeed in dealing with",
+          "clueType": 0
+        },
+        {
+          "text": "Gain control over a difficulty",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "OVERLOOK",
+      "clues": [
+        {
+          "text": "Fail to notice",
+          "clueType": 0
+        },
+        {
+          "text": "Have a view over a place",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PARADISE",
+      "clues": [
+        {
+          "text": "Place of great happiness",
+          "clueType": 0
+        },
+        {
+          "text": "Heaven or ideal place",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PARALLEL",
+      "clues": [
+        {
+          "text": "Running side by side without meeting",
+          "clueType": 0
+        },
+        {
+          "text": "Similar or corresponding",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PASSPORT",
+      "clues": [
+        {
+          "text": "Official document for international travel",
+          "clueType": 0
+        },
+        {
+          "text": "Travel document issued by government",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PATHWAYS",
+      "clues": [
+        {
+          "text": "Tracks or routes through an area",
+          "clueType": 0
+        },
+        {
+          "text": "Routes taken to achieve something",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PATIENCE",
+      "clues": [
+        {
+          "text": "Ability to wait calmly",
+          "clueType": 0
+        },
+        {
+          "text": "Tolerant perseverance",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PERCEIVE",
+      "clues": [
+        {
+          "text": "Become aware of through senses",
+          "clueType": 0
+        },
+        {
+          "text": "Interpret in a particular way",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PERSONAL",
+      "clues": [
+        {
+          "text": "Belonging to a particular person",
+          "clueType": 0
+        },
+        {
+          "text": "Private and individual",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PHYSICAL",
+      "clues": [
+        {
+          "text": "Relating to the body",
+          "clueType": 0
+        },
+        {
+          "text": "Of matter and energy",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PLANNING",
+      "clues": [
+        {
+          "text": "Making decisions in advance",
+          "clueType": 0
+        },
+        {
+          "text": "Organising future activities",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PLATFORM",
+      "clues": [
+        {
+          "text": "Raised flat surface",
+          "clueType": 0
+        },
+        {
+          "text": "Policy of a political party",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PLAYROOM",
+      "clues": [
+        {
+          "text": "Room set aside for children to play",
+          "clueType": 0
+        },
+        {
+          "text": "Space dedicated to play activities",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PLEASANT",
+      "clues": [
+        {
+          "text": "Agreeable and enjoyable",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PLOTTING",
+      "clues": [
+        {
+          "text": "Making secret plans",
+          "clueType": 0
+        },
+        {
+          "text": "Marking points on a graph",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "POSITIVE",
+      "clues": [
+        {
+          "text": "Constructive and confident",
+          "clueType": 0
+        },
+        {
+          "text": "Certain or definite",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "POWERFUL",
+      "clues": [
+        {
+          "text": "Having great power or strength",
+          "clueType": 0
+        },
+        {
+          "text": "Capable of exerting great force",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PRECIOUS",
+      "clues": [
+        {
+          "text": "Of great value and importance",
+          "clueType": 0
+        },
+        {
+          "text": "Greatly loved",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PRINTING",
+      "clues": [
+        {
+          "text": "Producing text on paper",
+          "clueType": 0
+        },
+        {
+          "text": "Making copies of a document",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PRISONER",
+      "clues": [
+        {
+          "text": "Person kept in prison",
+          "clueType": 0
+        },
+        {
+          "text": "Person deprived of freedom",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PROBABLY",
+      "clues": [
+        {
+          "text": "Almost certainly",
+          "clueType": 0
+        },
+        {
+          "text": "In all likelihood",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PROBLEMS",
+      "clues": [
+        {
+          "text": "Matters that are difficult to deal with",
+          "clueType": 0
+        },
+        {
+          "text": "Questions to be solved",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PRODUCES",
+      "clues": [
+        {
+          "text": "Creates or makes something",
+          "clueType": 0
+        },
+        {
+          "text": "Results in or causes",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PROGRESS",
+      "clues": [
+        {
+          "text": "Forward movement towards a goal",
+          "clueType": 0
+        },
+        {
+          "text": "Development or improvement",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PROMISED",
+      "clues": [
+        {
+          "text": "Gave one's word to do something",
+          "clueType": 0
+        },
+        {
+          "text": "Made a pledge or commitment",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PROMOTES",
+      "clues": [
+        {
+          "text": "Helps something develop or succeed",
+          "clueType": 0
+        },
+        {
+          "text": "Raises in rank or position",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PROTESTS",
+      "clues": [
+        {
+          "text": "Statements or actions opposing something",
+          "clueType": 0
+        },
+        {
+          "text": "Public demonstrations of disapproval",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PROVIDES",
+      "clues": [
+        {
+          "text": "Supplies or makes available",
+          "clueType": 0
+        },
+        {
+          "text": "Gives or furnishes",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "PUNISHED",
+      "clues": [
+        {
+          "text": "Made to suffer for wrongdoing",
+          "clueType": 0
+        },
+        {
+          "text": "Given a penalty for a crime",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "QUANTITY",
+      "clues": [
+        {
+          "text": "Amount or number of something",
+          "clueType": 0
+        },
+        {
+          "text": "Measurable portion",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "QUARTERS",
+      "clues": [
+        {
+          "text": "Four equal parts of a whole",
+          "clueType": 0
+        },
+        {
+          "text": "Rooms or lodgings",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "REACTION",
+      "clues": [
+        {
+          "text": "Response to something that has happened",
+          "clueType": 0
+        },
+        {
+          "text": "Chemical process involving substances",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "REASSURE",
+      "clues": [
+        {
+          "text": "Say something to remove doubt",
+          "clueType": 0
+        },
+        {
+          "text": "Give confidence back to someone",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RECENTLY",
+      "clues": [
+        {
+          "text": "At a time not long ago",
+          "clueType": 0
+        },
+        {
+          "text": "In the near past",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RECOVERY",
+      "clues": [
+        {
+          "text": "Return to a normal state after difficulty",
+          "clueType": 0
+        },
+        {
+          "text": "Regaining health after illness",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "REDUCING",
+      "clues": [
+        {
+          "text": "Making smaller in size",
+          "clueType": 0
+        },
+        {
+          "text": "Decreasing in amount",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RELEVANT",
+      "clues": [
+        {
+          "text": "Closely connected to the matter",
+          "clueType": 0
+        },
+        {
+          "text": "Appropriate and applicable",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RELIABLE",
+      "clues": [
+        {
+          "text": "Consistently good and trusted",
+          "clueType": 0
+        },
+        {
+          "text": "Dependable and trustworthy",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "REMAINED",
+      "clues": [
+        {
+          "text": "Stayed in the same place",
+          "clueType": 0
+        },
+        {
+          "text": "Continued to exist or be present",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "REMOVING",
+      "clues": [
+        {
+          "text": "Taking away or eliminating",
+          "clueType": 0
+        },
+        {
+          "text": "Getting rid of something",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "REPEATED",
+      "clues": [
+        {
+          "text": "Done or said more than once",
+          "clueType": 0
+        },
+        {
+          "text": "Occurring again",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "REPUBLIC",
+      "clues": [
+        {
+          "text": "State with elected government",
+          "clueType": 0
+        },
+        {
+          "text": "Country without a monarch",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RESOLVED",
+      "clues": [
+        {
+          "text": "Settled or found a solution",
+          "clueType": 0
+        },
+        {
+          "text": "Firmly decided on a course of action",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "REVEALED",
+      "clues": [
+        {
+          "text": "Made known",
+          "clueType": 0
+        },
+        {
+          "text": "Uncovered or disclosed",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "REWARDED",
+      "clues": [
+        {
+          "text": "Given something in return for service",
+          "clueType": 0
+        },
+        {
+          "text": "Received a prize or payment",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RIPPLING",
+      "clues": [
+        {
+          "text": "Making small waves on a surface",
+          "clueType": 0
+        },
+        {
+          "text": "Spreading outward like waves",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "RUMBLING",
+      "clues": [
+        {
+          "text": "Making a low continuous sound",
+          "clueType": 0
+        },
+        {
+          "text": "Continuous deep noise",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SAMENESS",
+      "clues": [
+        {
+          "text": "Quality of being identical",
+          "clueType": 0
+        },
+        {
+          "text": "Lack of variety",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SCATTERS",
+      "clues": [
+        {
+          "text": "Throws in various directions",
+          "clueType": 0
+        },
+        {
+          "text": "Disperses over a wide area",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SCHOLARS",
+      "clues": [
+        {
+          "text": "People of great learning",
+          "clueType": 0
+        },
+        {
+          "text": "Academic experts",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SEASONAL",
+      "clues": [
+        {
+          "text": "Relating to a particular season",
+          "clueType": 0
+        },
+        {
+          "text": "Happening at certain times of year",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SECURITY",
+      "clues": [
+        {
+          "text": "State of being free from danger",
+          "clueType": 0
+        },
+        {
+          "text": "Measures taken to protect something",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SELECTED",
+      "clues": [
+        {
+          "text": "Carefully chosen",
+          "clueType": 0
+        },
+        {
+          "text": "Picked from a number of options",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SENSIBLE",
+      "clues": [
+        {
+          "text": "Wise and practical",
+          "clueType": 0
+        },
+        {
+          "text": "Having good sense and judgement",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SENTENCE",
+      "clues": [
+        {
+          "text": "Set of words expressing a complete thought",
+          "clueType": 0
+        },
+        {
+          "text": "Punishment given by a court",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SEQUENCE",
+      "clues": [
+        {
+          "text": "Order in which things follow each other",
+          "clueType": 0
+        },
+        {
+          "text": "Series of related events",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SHOCKING",
+      "clues": [
+        {
+          "text": "Causing a feeling of surprise or disgust",
+          "clueType": 0
+        },
+        {
+          "text": "Very bad or offensive",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SHORTAGE",
+      "clues": [
+        {
+          "text": "Insufficient supply",
+          "clueType": 0
+        },
+        {
+          "text": "Lack of something needed",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SILENTLY",
+      "clues": [
+        {
+          "text": "Without making a sound",
+          "clueType": 0
+        },
+        {
+          "text": "Completely quietly",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SIMPLIFY",
+      "clues": [
+        {
+          "text": "Make less complex",
+          "clueType": 0
+        },
+        {
+          "text": "Make easier to understand",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SLIGHTLY",
+      "clues": [
+        {
+          "text": "To a small degree",
+          "clueType": 0
+        },
+        {
+          "text": "Not much, only a little",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SOCIABLE",
+      "clues": [
+        {
+          "text": "Willing to talk and engage with others",
+          "clueType": 0
+        },
+        {
+          "text": "Friendly and enjoying company",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SOFTWARE",
+      "clues": [
+        {
+          "text": "Programs used by a computer",
+          "clueType": 0
+        },
+        {
+          "text": "Digital applications and systems",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SOLUTION",
+      "clues": [
+        {
+          "text": "Answer to a problem",
+          "clueType": 0
+        },
+        {
+          "text": "Mixture formed by dissolving a substance",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SOMEBODY",
+      "clues": [
+        {
+          "text": "Some unspecified person",
+          "clueType": 0
+        },
+        {
+          "text": "Person of importance",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SOMETIME",
+      "clues": [
+        {
+          "text": "At an unspecified time",
+          "clueType": 0
+        },
+        {
+          "text": "Occasionally",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SPEAKING",
+      "clues": [
+        {
+          "text": "Uttering words",
+          "clueType": 0
+        },
+        {
+          "text": "Giving a formal talk",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SPECTRAL",
+      "clues": [
+        {
+          "text": "Ghostly in appearance",
+          "clueType": 0
+        },
+        {
+          "text": "Relating to a spectrum of light",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SPECTRUM",
+      "clues": [
+        {
+          "text": "Range of different things",
+          "clueType": 0
+        },
+        {
+          "text": "Band of colours seen in a rainbow",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SPENDING",
+      "clues": [
+        {
+          "text": "Using money to buy things",
+          "clueType": 0
+        },
+        {
+          "text": "Paying out money",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SPLENDID",
+      "clues": [
+        {
+          "text": "Magnificent and impressive",
+          "clueType": 0
+        },
+        {
+          "text": "Excellent or wonderful",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SPORTING",
+      "clues": [
+        {
+          "text": "Relating to sport",
+          "clueType": 0
+        },
+        {
+          "text": "Behaving fairly in competition",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STARFISH",
+      "clues": [
+        {
+          "text": "Sea creature with five arms",
+          "clueType": 0
+        },
+        {
+          "text": "Marine animal shaped like a star",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STARTING",
+      "clues": [
+        {
+          "text": "Beginning an activity",
+          "clueType": 0
+        },
+        {
+          "text": "Setting something in motion",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STEPPING",
+      "clues": [
+        {
+          "text": "Moving one foot forward",
+          "clueType": 0
+        },
+        {
+          "text": "Taking a step",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STICKING",
+      "clues": [
+        {
+          "text": "Adhering to a surface",
+          "clueType": 0
+        },
+        {
+          "text": "Remaining fixed in place",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STOPPING",
+      "clues": [
+        {
+          "text": "Coming to an end",
+          "clueType": 0
+        },
+        {
+          "text": "Causing something to cease",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STORMING",
+      "clues": [
+        {
+          "text": "Attacking with great force",
+          "clueType": 0
+        },
+        {
+          "text": "Moving fast and furiously",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STRENGTH",
+      "clues": [
+        {
+          "text": "Quality of being strong",
+          "clueType": 0
+        },
+        {
+          "text": "Capacity for exertion or endurance",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STRUGGLE",
+      "clues": [
+        {
+          "text": "Strenuous effort to do something",
+          "clueType": 0
+        },
+        {
+          "text": "Hard fight against opposition",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STUDYING",
+      "clues": [
+        {
+          "text": "Learning through reading and practice",
+          "clueType": 0
+        },
+        {
+          "text": "Applying the mind to learning",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "STUMBLED",
+      "clues": [
+        {
+          "text": "Tripped or nearly fell",
+          "clueType": 0
+        },
+        {
+          "text": "Found by accident",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SUDDENLY",
+      "clues": [
+        {
+          "text": "Quickly and without warning",
+          "clueType": 0
+        },
+        {
+          "text": "Unexpectedly and all at once",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SUITABLE",
+      "clues": [
+        {
+          "text": "Right or appropriate for a purpose",
+          "clueType": 0
+        },
+        {
+          "text": "Fitting and proper",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SUNLIGHT",
+      "clues": [
+        {
+          "text": "Light from the sun",
+          "clueType": 0
+        },
+        {
+          "text": "Bright natural illumination",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SUPPOSED",
+      "clues": [
+        {
+          "text": "Generally believed or assumed",
+          "clueType": 0
+        },
+        {
+          "text": "Expected or required",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SURVIVED",
+      "clues": [
+        {
+          "text": "Continued to live after difficulty",
+          "clueType": 0
+        },
+        {
+          "text": "Remained alive despite danger",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "SWIMMING",
+      "clues": [
+        {
+          "text": "Moving through water using arms and legs",
+          "clueType": 0
+        },
+        {
+          "text": "Propelling oneself in water",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TEACHING",
+      "clues": [
+        {
+          "text": "Imparting knowledge to others",
+          "clueType": 0
+        },
+        {
+          "text": "Instructing in a subject",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TEAMWORK",
+      "clues": [
+        {
+          "text": "Cooperative effort by a group",
+          "clueType": 0
+        },
+        {
+          "text": "Working together towards a common goal",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TELEGRAM",
+      "clues": [
+        {
+          "text": "Message sent by telegraph",
+          "clueType": 0
+        },
+        {
+          "text": "Old form of rapid written communication",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TEMPLATE",
+      "clues": [
+        {
+          "text": "Pattern used as a guide for cutting",
+          "clueType": 0
+        },
+        {
+          "text": "Preset format for a document",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "THINKING",
+      "clues": [
+        {
+          "text": "Using one's mind to consider",
+          "clueType": 0
+        },
+        {
+          "text": "Forming thoughts and opinions",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "THOUSAND",
+      "clues": [
+        {
+          "text": "Ten hundred",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "THROWING",
+      "clues": [
+        {
+          "text": "Propelling through the air",
+          "clueType": 0
+        },
+        {
+          "text": "Hurling something with force",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TIMELESS",
+      "clues": [
+        {
+          "text": "Not affected by the passage of time",
+          "clueType": 0
+        },
+        {
+          "text": "Valid for all eras",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TOGETHER",
+      "clues": [
+        {
+          "text": "With another person or persons",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TOMORROW",
+      "clues": [
+        {
+          "text": "Day after today",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TOUCHING",
+      "clues": [
+        {
+          "text": "Coming into contact with",
+          "clueType": 0
+        },
+        {
+          "text": "Moving and emotional",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TRACKING",
+      "clues": [
+        {
+          "text": "Following the movement of something",
+          "clueType": 0
+        },
+        {
+          "text": "Monitoring progress",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TRAINING",
+      "clues": [
+        {
+          "text": "Teaching skills to a person or animal",
+          "clueType": 0
+        },
+        {
+          "text": "Preparing for a competition",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TRANSFER",
+      "clues": [
+        {
+          "text": "Move from one place to another",
+          "clueType": 0
+        },
+        {
+          "text": "Change of ownership",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TREASURE",
+      "clues": [
+        {
+          "text": "Valuable hidden possessions",
+          "clueType": 0
+        },
+        {
+          "text": "Keep something precious",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TROUBLED",
+      "clues": [
+        {
+          "text": "Having many problems",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TRUSTING",
+      "clues": [
+        {
+          "text": "Having confidence in someone",
+          "clueType": 0
+        },
+        {
+          "text": "Placing belief in another",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "TWILIGHT",
+      "clues": [
+        {
+          "text": "Soft light just after sunset",
+          "clueType": 0
+        },
+        {
+          "text": "Period just before dark",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "ULTIMATE",
+      "clues": [
+        {
+          "text": "Final or most extreme",
+          "clueType": 0
+        },
+        {
+          "text": "Best or most important",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "UMBRELLA",
+      "clues": [
+        {
+          "text": "Rain protection carried by hand",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "UNIVERSE",
+      "clues": [
+        {
+          "text": "All of space and everything in it",
+          "clueType": 0
+        },
+        {
+          "text": "Total of all that exists",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "UNLIKELY",
+      "clues": [
+        {
+          "text": "Not probable",
+          "clueType": 0
+        },
+        {
+          "text": "Improbable but possible",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "VACATION",
+      "clues": [
+        {
+          "text": "Time away from work for rest",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "VALUABLE",
+      "clues": [
+        {
+          "text": "Worth a great deal",
+          "clueType": 0
+        },
+        {
+          "text": "Extremely useful or important",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "VELOCITY",
+      "clues": [
+        {
+          "text": "Speed in a given direction",
+          "clueType": 0
+        },
+        {
+          "text": "Rate of movement",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "VERTICAL",
+      "clues": [
+        {
+          "text": "At right angles to the horizontal",
+          "clueType": 0
+        },
+        {
+          "text": "Upright and perpendicular",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "VIGOROUS",
+      "clues": [
+        {
+          "text": "Strong and healthy",
+          "clueType": 0
+        },
+        {
+          "text": "Energetic and forceful",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "VILLAGER",
+      "clues": [
+        {
+          "text": "Person living in a village",
+          "clueType": 0
+        },
+        {
+          "text": "Rural community resident",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "VISITING",
+      "clues": [
+        {
+          "text": "Going to see a person or place",
+          "clueType": 0
+        },
+        {
+          "text": "Paying a call on someone",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "WANDERED",
+      "clues": [
+        {
+          "text": "Walked without a fixed route",
+          "clueType": 0
+        },
+        {
+          "text": "Roamed aimlessly",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "WATCHING",
+      "clues": [
+        {
+          "text": "Looking at with attention",
+          "clueType": 0
+        },
+        {
+          "text": "Keeping under observation",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "WHEREVER",
+      "clues": [
+        {
+          "text": "In or to whichever place",
+          "clueType": 0
+        },
+        {
+          "text": "No matter where",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "WILDFIRE",
+      "clues": [
+        {
+          "text": "Uncontrolled fire in a wild area",
+          "clueType": 0
+        },
+        {
+          "text": "Rapidly spreading fire",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "WIRELESS",
+      "clues": [
+        {
+          "text": "Using radio waves instead of wires",
+          "clueType": 0
+        },
+        {
+          "text": "Early name for a radio set",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "WONDROUS",
+      "clues": [
+        {
+          "text": "Inspiring awe or admiration",
+          "clueType": 0
+        },
+        {
+          "text": "Marvellous and amazing",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "WORKSHOP",
+      "clues": [
+        {
+          "text": "Room where crafts are made",
+          "clueType": 0
+        },
+        {
+          "text": "Educational meeting for discussion",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "WRITINGS",
+      "clues": [
+        {
+          "text": "Texts or documents produced",
+          "clueType": 0
+        },
+        {
+          "text": "Literary works",
+          "clueType": 0
+        }
+      ]
+    },
+    {
+      "word": "YOUNGEST",
+      "clues": [
+        {
+          "text": "Least old of a group",
+          "clueType": 0
+        },
+        {
+          "text": "Most recently born",
+          "clueType": 0
+        }
+      ]
+    }
+  ]
+}

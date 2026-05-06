@@ -1,0 +1,19 @@
+{
+    "name": "CrosswordGo.Editor",
+    "rootNamespace": "",
+    "references": [
+        "CrosswordGo.Core",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

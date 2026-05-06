@@ -1,0 +1,563 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4075f49cd56884e9ba8d2d5b6ba8fce0, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: CrosswordGo.Core::CrosswordGo.LevelData
+  title: New Level
+  gridWidth: 8
+  gridHeight: 8
+  cells:
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 13
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 14
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 15
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 16
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 17
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 18
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 19
+  - cellType: 1
+    acrossSlotId: 0
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 2
+    downSlotId: 20
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 3
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 4
+    downSlotId: 21
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 5
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 6
+    downSlotId: 22
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 7
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 8
+    downSlotId: 23
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 24
+  - cellType: 1
+    acrossSlotId: 9
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 10
+    downSlotId: 25
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 11
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 12
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  wordSlots:
+  - id: 0
+    direction: 0
+    clueRow: 1
+    clueCol: 0
+    startRow: 1
+    startCol: 1
+    length: 7
+    answer: AWESOME
+    clue: EPIC
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 1
+    direction: 0
+    clueRow: 2
+    clueCol: 0
+    startRow: 2
+    startCol: 1
+    length: 3
+    answer: WON
+    clue: WAS VICTORIOUS
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 2
+    direction: 0
+    clueRow: 2
+    clueCol: 4
+    startRow: 2
+    startCol: 5
+    length: 3
+    answer: REL
+    clue: __ATIVE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 3
+    direction: 0
+    clueRow: 3
+    clueCol: 0
+    startRow: 3
+    startCol: 1
+    length: 2
+    answer: AK
+    clue: C__E
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 4
+    direction: 0
+    clueRow: 3
+    clueCol: 3
+    startRow: 3
+    startCol: 4
+    length: 4
+    answer: PEAS
+    clue: POD VEGGIES
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 5
+    direction: 0
+    clueRow: 4
+    clueCol: 0
+    startRow: 4
+    startCol: 1
+    length: 5
+    answer: RETRO
+    clue: OLD SCHOOL
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 6
+    direction: 0
+    clueRow: 4
+    clueCol: 6
+    startRow: 4
+    startCol: 7
+    length: 1
+    answer: A
+    clue: APRICOT
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 7
+    direction: 0
+    clueRow: 5
+    clueCol: 0
+    startRow: 5
+    startCol: 1
+    length: 1
+    answer: D
+    clue: DELTA
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 8
+    direction: 0
+    clueRow: 5
+    clueCol: 2
+    startRow: 5
+    startCol: 3
+    length: 4
+    answer: EAST
+    clue: E ON A COMPASS
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 9
+    direction: 0
+    clueRow: 6
+    clueCol: 0
+    startRow: 6
+    startCol: 1
+    length: 4
+    answer: EASY
+    clue: EFFORTLESS
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 10
+    direction: 0
+    clueRow: 6
+    clueCol: 5
+    startRow: 6
+    startCol: 6
+    length: 2
+    answer: EE
+    clue: GR__N
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 11
+    direction: 0
+    clueRow: 7
+    clueCol: 0
+    startRow: 7
+    startCol: 1
+    length: 3
+    answer: DIT
+    clue: ___TO (SAME)
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 12
+    direction: 0
+    clueRow: 7
+    clueCol: 4
+    startRow: 7
+    startCol: 5
+    length: 3
+    answer: CAM
+    clue: ___ERA
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 13
+    direction: 1
+    clueRow: 0
+    clueCol: 1
+    startRow: 1
+    startCol: 1
+    length: 7
+    answer: AWARDED
+    clue: HONORED WITH
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 14
+    direction: 1
+    clueRow: 0
+    clueCol: 2
+    startRow: 1
+    startCol: 2
+    length: 4
+    answer: WOKE
+    clue: AWAKENED
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 15
+    direction: 1
+    clueRow: 0
+    clueCol: 3
+    startRow: 1
+    startCol: 3
+    length: 2
+    answer: EN
+    clue: F__CE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 16
+    direction: 1
+    clueRow: 0
+    clueCol: 4
+    startRow: 1
+    startCol: 4
+    length: 1
+    answer: S
+    clue: SAVE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 17
+    direction: 1
+    clueRow: 0
+    clueCol: 5
+    startRow: 1
+    startCol: 5
+    length: 4
+    answer: OREO
+    clue: OREO
+    clueType: 1
+    clueSprite: {fileID: 7350911220950072458, guid: f5567ca6a762d40708178b6f58ebe43f, type: 3}
+  - id: 18
+    direction: 1
+    clueRow: 0
+    clueCol: 6
+    startRow: 1
+    startCol: 6
+    length: 3
+    answer: MEA
+    clue: ___L
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 19
+    direction: 1
+    clueRow: 0
+    clueCol: 7
+    startRow: 1
+    startCol: 7
+    length: 4
+    answer: ELSA
+    clue: FROZEN QUEEN
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 20
+    direction: 1
+    clueRow: 2
+    clueCol: 4
+    startRow: 3
+    startCol: 4
+    length: 4
+    answer: PRAY
+    clue: MEDITATE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 21
+    direction: 1
+    clueRow: 3
+    clueCol: 3
+    startRow: 4
+    startCol: 3
+    length: 4
+    answer: TEST
+    clue: EXPERIMENT
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 22
+    direction: 1
+    clueRow: 4
+    clueCol: 6
+    startRow: 5
+    startCol: 6
+    length: 3
+    answer: TEA
+    clue: BREWED DRINK
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 23
+    direction: 1
+    clueRow: 5
+    clueCol: 2
+    startRow: 6
+    startCol: 2
+    length: 2
+    answer: AI
+    clue: BR__N
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 24
+    direction: 1
+    clueRow: 5
+    clueCol: 7
+    startRow: 6
+    startCol: 7
+    length: 2
+    answer: EM
+    clue: G__
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 25
+    direction: 1
+    clueRow: 6
+    clueCol: 5
+    startRow: 7
+    startCol: 5
+    length: 1
+    answer: C
+    clue: CASE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  cellHints:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - A
+  - 
+  - E
+  - 
+  - O
+  - 
+  - 
+  - 
+  - W
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - R
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Y
+  - 
+  - 
+  - E
+  - 
+  - D
+  - 
+  - 
+  - 
+  - 
+  - A
+  - 
+  difficulty: 1

@@ -1,0 +1,694 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4075f49cd56884e9ba8d2d5b6ba8fce0, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: CrosswordGo.Core::CrosswordGo.LevelData
+  title: New Level
+  gridWidth: 8
+  gridHeight: 10
+  cells:
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 17
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 18
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 19
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 20
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 21
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 22
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 23
+  - cellType: 1
+    acrossSlotId: 0
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 2
+    downSlotId: 24
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 3
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 4
+    downSlotId: 25
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 5
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 6
+    downSlotId: 26
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 7
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 8
+    downSlotId: 27
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 28
+  - cellType: 1
+    acrossSlotId: 9
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 10
+    downSlotId: 29
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 11
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 12
+    downSlotId: 30
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 13
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 14
+    downSlotId: 31
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 15
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 16
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  wordSlots:
+  - id: 0
+    direction: 0
+    clueRow: 1
+    clueCol: 0
+    startRow: 1
+    startCol: 1
+    length: 7
+    answer: CONGEST
+    clue: OVERCROWD
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 1
+    direction: 0
+    clueRow: 2
+    clueCol: 0
+    startRow: 2
+    startCol: 1
+    length: 4
+    answer: OVAL
+    clue: OVAL
+    clueType: 1
+    clueSprite: {fileID: -6764750580162352957, guid: 684bcd8e5e4f4422fa9dfaad13b7a46c, type: 3}
+  - id: 2
+    direction: 0
+    clueRow: 2
+    clueCol: 5
+    startRow: 2
+    startCol: 6
+    length: 2
+    answer: TY
+    clue: S__LISH
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 3
+    direction: 0
+    clueRow: 3
+    clueCol: 0
+    startRow: 3
+    startCol: 1
+    length: 3
+    answer: NET
+    clue: NET
+    clueType: 1
+    clueSprite: {fileID: -6512211823957091797, guid: dbf5e5227449d4f6788a0bcc76d0c85d, type: 3}
+  - id: 4
+    direction: 0
+    clueRow: 3
+    clueCol: 4
+    startRow: 3
+    startCol: 5
+    length: 3
+    answer: COP
+    clue: POLICE OFFICER
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 5
+    direction: 0
+    clueRow: 4
+    clueCol: 0
+    startRow: 4
+    startCol: 1
+    length: 2
+    answer: TR
+    clue: TAPE RECORDER
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 6
+    direction: 0
+    clueRow: 4
+    clueCol: 3
+    startRow: 4
+    startCol: 4
+    length: 4
+    answer: CARE
+    clue: BE CONCERNED
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 7
+    direction: 0
+    clueRow: 5
+    clueCol: 0
+    startRow: 5
+    startCol: 1
+    length: 1
+    answer: E
+    clue: EMBLEM
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 8
+    direction: 0
+    clueRow: 5
+    clueCol: 2
+    startRow: 5
+    startCol: 3
+    length: 4
+    answer: COVE
+    clue: SMALL BAY
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 9
+    direction: 0
+    clueRow: 6
+    clueCol: 0
+    startRow: 6
+    startCol: 1
+    length: 5
+    answer: SMILE
+    clue: SMILE
+    clueType: 1
+    clueSprite: {fileID: 4845215226906558857, guid: 9dc5571861d734dbf92845318c90b565, type: 3}
+  - id: 10
+    direction: 0
+    clueRow: 6
+    clueCol: 6
+    startRow: 6
+    startCol: 7
+    length: 1
+    answer: T
+    clue: TROPICAL
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 11
+    direction: 0
+    clueRow: 7
+    clueCol: 0
+    startRow: 7
+    startCol: 1
+    length: 2
+    answer: TO
+    clue: TIME OUT
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 12
+    direction: 0
+    clueRow: 7
+    clueCol: 3
+    startRow: 7
+    startCol: 4
+    length: 4
+    answer: LAME
+    clue: ____DUCK
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 13
+    direction: 0
+    clueRow: 8
+    clueCol: 0
+    startRow: 8
+    startCol: 1
+    length: 3
+    answer: ERR
+    clue: MAKE A MISTAKE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 14
+    direction: 0
+    clueRow: 8
+    clueCol: 4
+    startRow: 8
+    startCol: 5
+    length: 3
+    answer: TIC
+    clue: FANTAS___
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 15
+    direction: 0
+    clueRow: 9
+    clueCol: 0
+    startRow: 9
+    startCol: 1
+    length: 4
+    answer: DEAR
+    clue: LETTER STARTER
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 16
+    direction: 0
+    clueRow: 9
+    clueCol: 5
+    startRow: 9
+    startCol: 6
+    length: 2
+    answer: NH
+    clue: NATIONAL HIGHWAY
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 17
+    direction: 1
+    clueRow: 0
+    clueCol: 1
+    startRow: 1
+    startCol: 1
+    length: 9
+    answer: CONTESTED
+    clue: FOUGHT FOR
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 18
+    direction: 1
+    clueRow: 0
+    clueCol: 2
+    startRow: 1
+    startCol: 2
+    length: 4
+    answer: OVER
+    clue: NOT UNDER
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 19
+    direction: 1
+    clueRow: 0
+    clueCol: 3
+    startRow: 1
+    startCol: 3
+    length: 3
+    answer: NAT
+    clue: PI___A
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 20
+    direction: 1
+    clueRow: 0
+    clueCol: 4
+    startRow: 1
+    startCol: 4
+    length: 2
+    answer: GL
+    clue: GOOD LUCK
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 21
+    direction: 1
+    clueRow: 0
+    clueCol: 5
+    startRow: 1
+    startCol: 5
+    length: 1
+    answer: E
+    clue: ENVELOPE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 22
+    direction: 1
+    clueRow: 0
+    clueCol: 6
+    startRow: 1
+    startCol: 6
+    length: 5
+    answer: STORE
+    clue: SHOP
+    clueType: 1
+    clueSprite: {fileID: 1355782560748639193, guid: 14be5909e5a92419d8e370999430e501, type: 3}
+  - id: 23
+    direction: 1
+    clueRow: 0
+    clueCol: 7
+    startRow: 1
+    startCol: 7
+    length: 4
+    answer: TYPE
+    clue: VARIETY
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 24
+    direction: 1
+    clueRow: 2
+    clueCol: 5
+    startRow: 3
+    startCol: 5
+    length: 6
+    answer: CAVEAT
+    clue: WARNING
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 25
+    direction: 1
+    clueRow: 3
+    clueCol: 4
+    startRow: 4
+    startCol: 4
+    length: 4
+    answer: COLL
+    clue: ___ABORATE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 26
+    direction: 1
+    clueRow: 4
+    clueCol: 3
+    startRow: 5
+    startCol: 3
+    length: 2
+    answer: CI
+    clue: CAST IRON
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 27
+    direction: 1
+    clueRow: 5
+    clueCol: 2
+    startRow: 6
+    startCol: 2
+    length: 4
+    answer: MORE
+    clue: ADDITIONAL
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 28
+    direction: 1
+    clueRow: 5
+    clueCol: 7
+    startRow: 6
+    startCol: 7
+    length: 4
+    answer: TECH
+    clue: META INDUSTRY
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 29
+    direction: 1
+    clueRow: 6
+    clueCol: 6
+    startRow: 7
+    startCol: 6
+    length: 3
+    answer: MIN
+    clue: MAX'S OPPOSITE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 30
+    direction: 1
+    clueRow: 7
+    clueCol: 3
+    startRow: 8
+    startCol: 3
+    length: 2
+    answer: RA
+    clue: RED ALERT
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 31
+    direction: 1
+    clueRow: 8
+    clueCol: 4
+    startRow: 9
+    startCol: 4
+    length: 1
+    answer: R
+    clue: B_ID
+    clueType: 0
+    clueSprite: {fileID: 0}
+  cellHints:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - C
+  - 
+  - N
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - E
+  - 
+  - 
+  - C
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - V
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - E
+  - 
+  - R
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  difficulty: 1
+  turnTimerSeconds: 30

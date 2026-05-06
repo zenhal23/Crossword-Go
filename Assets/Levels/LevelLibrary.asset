@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b68e44272d629494aa449ac0a21753cc, type: 3}
+  m_Name: LevelLibrary
+  m_EditorClassIdentifier: CrosswordGo.Core::CrosswordGo.LevelLibrary
+  levels:
+  - {fileID: 11400000, guid: c1c5f1d50469f45d3a9b95550bc50cac, type: 2}
+  - {fileID: 11400000, guid: a9e3388b8a0ba4235a9fced5ace82652, type: 2}
+  - {fileID: 11400000, guid: b12be5321f46849f88bf42432b11d796, type: 2}
+  - {fileID: 11400000, guid: dbfb2c78392c5435c9eeaf197a74293d, type: 2}
+  - {fileID: 11400000, guid: 8b61c63f1210149a2895319625d01814, type: 2}

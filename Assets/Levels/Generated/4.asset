@@ -1,0 +1,693 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4075f49cd56884e9ba8d2d5b6ba8fce0, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: CrosswordGo.Core::CrosswordGo.LevelData
+  title: 2
+  gridWidth: 8
+  gridHeight: 10
+  cells:
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 17
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 18
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 19
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 20
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 21
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 22
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 23
+  - cellType: 1
+    acrossSlotId: 0
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 2
+    downSlotId: 24
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 3
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 4
+    downSlotId: 25
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 5
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 6
+    downSlotId: 26
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 7
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 8
+    downSlotId: 27
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 9
+    downSlotId: 28
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: -1
+    downSlotId: 29
+  - cellType: 1
+    acrossSlotId: 10
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 11
+    downSlotId: 30
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 12
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 13
+    downSlotId: 31
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 14
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 15
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 1
+    acrossSlotId: 16
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  - cellType: 2
+    acrossSlotId: -1
+    downSlotId: -1
+  wordSlots:
+  - id: 0
+    direction: 0
+    clueRow: 1
+    clueCol: 0
+    startRow: 1
+    startCol: 1
+    length: 7
+    answer: SHARING
+    clue: SPLITTING
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 1
+    direction: 0
+    clueRow: 2
+    clueCol: 0
+    startRow: 2
+    startCol: 1
+    length: 4
+    answer: CORN
+    clue: 
+    clueType: 1
+    clueSprite: {fileID: -7898787367951086711, guid: b5bfbd829e5864b24bed1927cd045fa5, type: 3}
+  - id: 2
+    direction: 0
+    clueRow: 2
+    clueCol: 5
+    startRow: 2
+    startCol: 6
+    length: 2
+    answer: AR
+    clue: ANNUAL REPORT
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 3
+    direction: 0
+    clueRow: 3
+    clueCol: 0
+    startRow: 3
+    startCol: 1
+    length: 3
+    answer: ISC
+    clue: B___UIT
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 4
+    direction: 0
+    clueRow: 3
+    clueCol: 4
+    startRow: 3
+    startCol: 5
+    length: 3
+    answer: DNI
+    clue: DO NOT INCLUDE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 5
+    direction: 0
+    clueRow: 4
+    clueCol: 0
+    startRow: 4
+    startCol: 1
+    length: 2
+    answer: EE
+    clue: D__R
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 6
+    direction: 0
+    clueRow: 4
+    clueCol: 3
+    startRow: 4
+    startCol: 4
+    length: 4
+    answer: DENT
+    clue: DING
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 7
+    direction: 0
+    clueRow: 5
+    clueCol: 0
+    startRow: 5
+    startCol: 1
+    length: 1
+    answer: N
+    clue: NEUTRALITY
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 8
+    direction: 0
+    clueRow: 5
+    clueCol: 2
+    startRow: 5
+    startCol: 3
+    length: 2
+    answer: DE
+    clue: __LIGHT
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 9
+    direction: 0
+    clueRow: 5
+    clueCol: 5
+    startRow: 5
+    startCol: 6
+    length: 1
+    answer: Y
+    clue: YEAR
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 10
+    direction: 0
+    clueRow: 6
+    clueCol: 0
+    startRow: 6
+    startCol: 1
+    length: 5
+    answer: THOSE
+    clue: THAT AND THAT
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 11
+    direction: 0
+    clueRow: 6
+    clueCol: 6
+    startRow: 6
+    startCol: 7
+    length: 1
+    answer: T
+    clue: TROUBLESHOOT
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 12
+    direction: 0
+    clueRow: 7
+    clueCol: 0
+    startRow: 7
+    startCol: 1
+    length: 2
+    answer: IA
+    clue: INTERNAL AFFAIRS
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 13
+    direction: 0
+    clueRow: 7
+    clueCol: 3
+    startRow: 7
+    startCol: 4
+    length: 4
+    answer: EACH
+    clue: APIECE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 14
+    direction: 0
+    clueRow: 8
+    clueCol: 0
+    startRow: 8
+    startCol: 1
+    length: 7
+    answer: STARTER
+    clue: APPETIZER
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 15
+    direction: 0
+    clueRow: 9
+    clueCol: 0
+    startRow: 9
+    startCol: 1
+    length: 4
+    answer: TENT
+    clue: 
+    clueType: 1
+    clueSprite: {fileID: -2276604081205237449, guid: 3fdc99ad33fe247e6bcf327eaa51ab70, type: 3}
+  - id: 16
+    direction: 0
+    clueRow: 9
+    clueCol: 5
+    startRow: 9
+    startCol: 6
+    length: 2
+    answer: RU
+    clue: RIG UP
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 17
+    direction: 1
+    clueRow: 0
+    clueCol: 1
+    startRow: 1
+    startCol: 1
+    length: 9
+    answer: SCIENTIST
+    clue: BOHR OR CURIE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 18
+    direction: 1
+    clueRow: 0
+    clueCol: 2
+    startRow: 1
+    startCol: 2
+    length: 4
+    answer: HOSE
+    clue: 
+    clueType: 0
+    clueSprite: {fileID: 561709083574867246, guid: e03dcbda7374540f8b0f5a82cf65c1bd, type: 3}
+  - id: 19
+    direction: 1
+    clueRow: 0
+    clueCol: 3
+    startRow: 1
+    startCol: 3
+    length: 3
+    answer: ARC
+    clue: RAINBOW SHAPE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 20
+    direction: 1
+    clueRow: 0
+    clueCol: 4
+    startRow: 1
+    startCol: 4
+    length: 2
+    answer: RN
+    clue: ROYAL NAVY
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 21
+    direction: 1
+    clueRow: 0
+    clueCol: 5
+    startRow: 1
+    startCol: 5
+    length: 1
+    answer: I
+    clue: INOCULATE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 22
+    direction: 1
+    clueRow: 0
+    clueCol: 6
+    startRow: 1
+    startCol: 6
+    length: 5
+    answer: NANNY
+    clue: SITTER
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 23
+    direction: 1
+    clueRow: 0
+    clueCol: 7
+    startRow: 1
+    startCol: 7
+    length: 4
+    answer: GRIT
+    clue: COURAGE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 24
+    direction: 1
+    clueRow: 2
+    clueCol: 5
+    startRow: 3
+    startCol: 5
+    length: 2
+    answer: DE
+    clue: DATA ENTRY
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 25
+    direction: 1
+    clueRow: 3
+    clueCol: 4
+    startRow: 4
+    startCol: 4
+    length: 6
+    answer: DESERT
+    clue: SAHARA
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 26
+    direction: 1
+    clueRow: 4
+    clueCol: 3
+    startRow: 5
+    startCol: 3
+    length: 2
+    answer: DO
+    clue: __ NOT DISTURB
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 27
+    direction: 1
+    clueRow: 5
+    clueCol: 2
+    startRow: 6
+    startCol: 2
+    length: 4
+    answer: HATE
+    clue: LOATHE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 28
+    direction: 1
+    clueRow: 5
+    clueCol: 5
+    startRow: 6
+    startCol: 5
+    length: 3
+    answer: EAT
+    clue: CONSUME
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 29
+    direction: 1
+    clueRow: 5
+    clueCol: 7
+    startRow: 6
+    startCol: 7
+    length: 4
+    answer: THRU
+    clue: DRIVE-___
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 30
+    direction: 1
+    clueRow: 6
+    clueCol: 6
+    startRow: 7
+    startCol: 6
+    length: 3
+    answer: CER
+    clue: SAU___
+    clueType: 0
+    clueSprite: {fileID: 0}
+  - id: 31
+    direction: 1
+    clueRow: 7
+    clueCol: 3
+    startRow: 8
+    startCol: 3
+    length: 2
+    answer: AN
+    clue: ARMY NURSE
+    clueType: 0
+    clueSprite: {fileID: 0}
+  cellHints:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - S
+  - 
+  - A
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - D
+  - 
+  - I
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - E
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - S
+  - 
+  - A
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  difficulty: 1

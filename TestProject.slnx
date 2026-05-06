@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="CrosswordGo.Core.csproj" />
+  <Project Path="CrosswordGo.Tests.csproj" />
+  <Project Path="CrosswordGo.Editor.csproj" />
+</Solution>
