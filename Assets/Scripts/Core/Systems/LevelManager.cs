@@ -79,7 +79,7 @@ namespace CrosswordGo
             };
             turnManager.OnGameOver += (playerWon, pScore, bScore) =>
             {
-                AdvanceLevelIndex();
+                if (playerWon) AdvanceLevelIndex();
                 resultPanel.Show(playerWon, pScore, bScore);
             };
 
